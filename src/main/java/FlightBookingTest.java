@@ -4,7 +4,6 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -31,9 +30,9 @@ public class FlightBookingTest {
         waitFor(2000);
         List<WebElement> originOptions = driver.findElement(By.id("ui-id-1")).findElements(By.tagName("li"));
         originOptions.get(0).click();
-
-        driver.findElement(By.id("toTag")).clear();
-        driver.findElement(By.id("toTag")).sendKeys("Delhi");
+        //Changed the Id of the element as the previous id was "toTag" and in the site the id is "ToTag"
+        driver.findElement(By.id("ToTag")).clear();
+        driver.findElement(By.id("ToTag")).sendKeys("Delhi");
 
         //wait for the auto complete options to appear for the destination
 
@@ -41,8 +40,9 @@ public class FlightBookingTest {
         //select the first item from the destination auto complete list
         List<WebElement> destinationOptions = driver.findElement(By.id("ui-id-2")).findElements(By.tagName("li"));
         destinationOptions.get(0).click();
-
-        driver.findElement(By.xpath("//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[3]/td[7]/a")).click();
+        driver.findElement(By.xpath("//*[@id=\"DepartDate\"]")).click();
+        //Changed to valid date xpath location as the date was pointed to previous invalid date that cannot be selected.
+        driver.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[4]/td[2]/a")).click();
 
         //all fields filled in. Now click on search
         driver.findElement(By.id("SearchBtn")).click();
