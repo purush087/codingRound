@@ -1,3 +1,5 @@
+package com;
+
 import com.sun.javafx.PlatformUtil;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -15,6 +17,15 @@ public class BaseClass {
     public WebDriver getDriver() {
         return driver;
     }
+    //Waits for set duration in milliseconds
+    public void waitFor(int durationInMilliSeconds) {
+        try {
+            Thread.sleep(durationInMilliSeconds);
+        } catch (InterruptedException e) {
+            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+        }
+    }
+
     // Adding a method for cross browser testing compatibility
     public void setDriver(String Browser, String URL) {
         switch (Browser){
