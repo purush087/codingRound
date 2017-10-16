@@ -57,4 +57,8 @@ public class BaseClass {
             System.out.println(e);
         }
     }
+
+    public void closeTest(){
+        driver.close();
+    }
 }
