@@ -5,6 +5,7 @@
     <test name="code-challenge-tests">
         <classes>
             <class name="com.pageTests.SignInTest"/>
+            <class name="com.pageTests.HotelBookingTest"/>
         </classes>
     </test>
 </suite>

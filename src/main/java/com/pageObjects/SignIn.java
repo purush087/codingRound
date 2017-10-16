@@ -17,6 +17,7 @@ public class SignIn {
 
     private By signInButton = By.id("signInButton");
     private By errors1 = By.id("errors1");
+    private By closeBtn = By.id("close");
 
     public SignIn(WebDriver driver){
         this.driver = driver;
@@ -32,6 +33,8 @@ public class SignIn {
         driver.switchTo().frame(frameId);
         driver.findElement(signInButton).click();
         error = driver.findElement(errors1).getText();
+        driver.switchTo().defaultContent();
+        driver.findElement(closeBtn).click();
         return error;
     }
 }

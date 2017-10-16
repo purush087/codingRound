@@ -24,5 +24,7 @@ public class SignInTest extends BaseClass {
         waitFor(2000);
         String error = signinPage.loginFlow();
         Assert.assertTrue(error.contains("There were errors in your submission"));
+        waitFor(2000);
+        closeTest();
     }
 }
