@@ -1,72 +1,53 @@
 package com.pageTests;
 
-import com.sun.javafx.PlatformUtil;
+import com.BaseClass;
+import com.pageObjects.FlightBooking;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import java.util.List;
+public class FlightBookingTest extends BaseClass{
 
-public class FlightBookingTest {
+    private WebDriver driver;
+    private By searchSummary;
 
-    WebDriver driver = new ChromeDriver();
+    FlightBooking flightBooking;
 
+    @BeforeClass
+    public void setup(){
+        driver = getDriver();
+    }
 
     @Test
     public void testThatResultsAppearForAOneWayJourney() {
 
-        setDriverPath();
-        driver.get("https://www.cleartrip.com/");
-        waitFor(2000);
-        driver.findElement(By.id("OneWay")).click();
+        flightBooking = new FlightBooking(driver);
 
-        driver.findElement(By.id("FromTag")).clear();
-        driver.findElement(By.id("FromTag")).sendKeys("Bangalore");
+        waitFor(2000);
+        flightBooking.setFromLocation();
 
         //wait for the auto complete options to appear for the origin
-
         waitFor(2000);
-        List<WebElement> originOptions = driver.findElement(By.id("ui-id-1")).findElements(By.tagName("li"));
-        originOptions.get(0).click();
-        //Changed the Id of the element as the previous id was "toTag" and in the site the id is "ToTag"
-        driver.findElement(By.id("ToTag")).clear();
-        driver.findElement(By.id("ToTag")).sendKeys("Delhi");
+        flightBooking.setToLocation();
 
         //wait for the auto complete options to appear for the destination
-
         waitFor(2000);
         //select the first item from the destination auto complete list
-        List<WebElement> destinationOptions = driver.findElement(By.id("ui-id-2")).findElements(By.tagName("li"));
-        destinationOptions.get(0).click();
-        driver.findElement(By.xpath("//*[@id=\"DepartDate\"]")).click();
-        //Changed to valid date xpath location as the date was pointed to previous invalid date that cannot be selected.
-        driver.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[4]/td[2]/a")).click();
-
+        flightBooking.destinationOptions();
         //all fields filled in. Now click on search
-        driver.findElement(By.id("SearchBtn")).click();
+        searchSummary = flightBooking.clickSearch();
 
         waitFor(5000);
         //verify that result appears for the provided journey search
-        Assert.assertTrue(isElementPresent(By.className("searchSummary")));
+        Assert.assertTrue(isElementPresent(searchSummary));
 
         //close the browser
         driver.quit();
 
     }
-
-
-    private void waitFor(int durationInMilliSeconds) {
-        try {
-            Thread.sleep(durationInMilliSeconds);
-        } catch (InterruptedException e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
-        }
-    }
-
 
     private boolean isElementPresent(By by) {
         try {
@@ -74,18 +55,6 @@ public class FlightBookingTest {
             return true;
         } catch (NoSuchElementException e) {
             return false;
-        }
-    }
-
-    private void setDriverPath() {
-        if (PlatformUtil.isMac()) {
-            System.setProperty("webdriver.chrome.driver", "chromedriver");
-        }
-        if (PlatformUtil.isWindows()) {
-            System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
-        }
-        if (PlatformUtil.isLinux()) {
-            System.setProperty("webdriver.chrome.driver", "chromedriver_linux");
         }
     }
 }

@@ -4,8 +4,8 @@
     <parameter name="URL" value="https://www.cleartrip.com/"/>
     <test name="code-challenge-tests">
         <classes>
-            <class name="com.pageTests.SignInTest"/>
-            <class name="com.pageTests.HotelBookingTest"/>
+            <!--<class name="com.pageTests.SignInTest"/>-->
+            <!--<class name="com.pageTests.HotelBookingTest"/>-->
             <class name="com.pageTests.FlightBookingTest"/>
         </classes>
     </test>

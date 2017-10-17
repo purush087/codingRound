@@ -31,10 +31,10 @@ public class BaseClass {
         switch (Browser){
             case  "Chrome" :
                 if (PlatformUtil.isMac()) {
-                    System.setProperty("webdriver.chrome.driver", "chromedriver");
+                    System.setProperty("webdriver.chrome.driver", "lib/chromedriver");
                 }
                 if (PlatformUtil.isWindows()) {
-                    System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "lib/chromedriver.exe");
                 }
                 if (PlatformUtil.isLinux()) {
                     System.setProperty("webdriver.chrome.driver", "lib/chromedriver");

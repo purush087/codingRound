@@ -38,4 +38,5 @@ public class HotelBooking {
         new Select(travellerSelection).selectByVisibleText(roomsAndGuests);
         searchButton.click();
     }
+
 }

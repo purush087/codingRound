@@ -22,6 +22,8 @@ public class HotelBookingTest extends BaseClass {
         waitFor(2000);
         hotelBooking.clickOnHotels();
         hotelBooking.bookingDetails("Indiranagar, Bangalore", "1 room, 2 adults");
+        closeTest();
     }
+
 
 }
