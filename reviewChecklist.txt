@@ -1,0 +1,4 @@
+* Resolved issues in the tests in initial commits.
+* Refactored tests to POM in the later commits.
+* Added testNG xml file to execute all tests in single run
+* Configured gradle task to run all tests with *gradle clean test*
