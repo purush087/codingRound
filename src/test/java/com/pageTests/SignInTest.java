@@ -1,30 +1,28 @@
 package com.pageTests;
 
-import com.BaseClass;
 import com.pageObjects.SignIn;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class SignInTest extends BaseClass {
-    private WebDriver driver;
+public class SignInTest extends DriverFactory {
 
-    @BeforeClass
-    public void setup(){
-        driver = getDriver();
-    }
-    SignIn signinPage;
+    SignIn signInPage;
 
     @Test
-    public void shouldThrowAnErrorIfSignInDetailsAreMissing(){
-        signinPage =new SignIn(driver);
-        waitFor(2000);
-        signinPage.clickOnSignInButton(driver);
-        waitFor(2000);
-        String error = signinPage.loginFlow();
+    public void clickOnSignInButton(){
+        signInPage = new SignIn(driver);
+        signInPage.clickOnSignInButton();
+        String error = signInPage.loginFlow();
         Assert.assertTrue(error.contains("There were errors in your submission"));
-        waitFor(2000);
-        closeTest();
     }
+
+    @Test
+    public void foo(){
+        signInPage = new SignIn(driver);
+        signInPage.clickOnSignInButton();
+        String error = signInPage.loginFlow();
+        Assert.assertTrue(error.contains("There were errors in your submission"));
+    }
+
+
 }

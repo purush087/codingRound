@@ -19,7 +19,7 @@ dependencies {
 test {
     maxHeapSize="1024m"
     useTestNG(){
-        suites 'src/main/resources/testng.xml'
+        suites 'src/test/resources/testng.xml'
     }
 }
 

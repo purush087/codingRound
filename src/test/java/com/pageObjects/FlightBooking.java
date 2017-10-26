@@ -3,53 +3,90 @@ package com.pageObjects;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
+import java.util.Collection;
+import java.util.Iterator;
 import java.util.List;
 
 /**
  * Created by purushtoman on 17/10/17.
  */
-public class FlightBooking {
-    private WebDriver driver;
+public class FlightBooking extends BaseClass {
+    WebDriver driver;
 
-    private By radioOneWay = By.id("OneWay");
-    private By FromTag = By.id("FromTag");
     private By options = By.id("ui-id-1");
     private By options2 = By.id("ui-id-2");
     private By optionsTag = By.tagName("li");
-    private By calendarClick = By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[4]/td[2]/a");
-    private By dateOfDepartureBox = By.xpath("//*[@id=\"DepartDate\"]");
-    private By search = By.id("SearchBtn");
-    private By searchSummary = By.className("searchSummary");
+
+    @FindBy(id = "OneWay")
+    private WebElement radioOneWay;
+
+    @FindBy(id = "FromTag")
+    private WebElement FromTag;
+
+    /*@FindBy(id="ui-id-1")
+    private WebElement options;
+
+    @FindBy(id = "ui-id-2")
+    private WebElement options2;*/
+
+    @FindBy(id = "ToTag")
+    private WebElement ToTag;
+
+    @FindBy(xpath = "//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[5]/td[5]/a")
+    private WebElement calendarClick;
+
+    @FindBy(xpath = "//*[@id=\"DepartDate\"]")
+    private WebElement dateOfDepartureBox;
+
+    @FindBy(id = "SearchBtn")
+    private WebElement search;
+
+    @FindBy(className = "searchSummary")
+    private WebElement searchSummary;
+
+
 
     public FlightBooking(WebDriver driver) {
+        super(driver);
         this.driver = driver;
+        PageFactory.initElements(driver,this);
     }
 
 
     public void setFromLocation() {
-        driver.findElement(radioOneWay).click();
-        driver.findElement(FromTag).clear();
-        driver.findElement(FromTag).sendKeys("Bangalore");
-    }
-    public void setToLocation(){
-    List<WebElement> originOptions = driver.findElement(options).findElements(optionsTag);
+        // baseClass.waitFor(2000);
+        radioOneWay.click();
+        FromTag.clear();
+        FromTag.sendKeys("Bangalore");
+        WebElement opt = waitForElementToBevisible(options);
+        List<WebElement> originOptions = opt.findElements(optionsTag);
         originOptions.get(0).click();
-        //Changed the Id of the element as the previous id was "toTag" and in the site the id is "ToTag"
-        driver.findElement(By.id("ToTag")).clear();
-        driver.findElement(By.id("ToTag")).sendKeys("Delhi");
     }
 
-    public void destinationOptions(){
-        List<WebElement> destinationOptions = driver.findElement(options2).findElements(optionsTag);
-        destinationOptions.get(0).click();
-        driver.findElement(dateOfDepartureBox).click();
+    public void setToLocation(){
+        ToTag.clear();
+        ToTag.sendKeys("Delhi");
+        WebElement opt = waitForElementToBevisible(options2);
+        List<WebElement> originOptions = opt.findElements(optionsTag);
+        originOptions.get(0).click();
+    }
+
+    public void destinationOptions() throws InterruptedException {
+
+        /*List<WebElement> originOptions = driver.findElement(By.id("ui-id-1")).findElements(By.tagName("li"));
+        originOptions.get(0).click();*/
+        dateOfDepartureBox.click();
+        Thread.sleep(2000);
         //Changed to valid date xpath location as the date was pointed to previous invalid date that cannot be selected.
-        driver.findElement(calendarClick).click();
+        calendarClick.click();
     }
 
-    public By clickSearch(){
-        driver.findElement(search).click();
+    public WebElement clickSearch(){
+        //baseClass.waitFor(2000);
+        search.click();
         return searchSummary;
     }
 }

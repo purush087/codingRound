@@ -9,8 +9,8 @@ import org.openqa.selenium.support.ui.Select;
 /**
  * Created by purushtoman on 16/10/17.
  */
-public class HotelBooking {
-    private WebDriver driver;
+public class HotelBooking extends BaseClass{
+    WebDriver driver;
 
     @FindBy(linkText = "Hotels")
     private WebElement hotelLink;
@@ -25,6 +25,7 @@ public class HotelBooking {
     private WebElement travellerSelection;
 
     public HotelBooking(WebDriver driver){
+        super(driver);
         this.driver = driver;
         PageFactory.initElements(driver,this);
     }

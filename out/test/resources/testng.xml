@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="coding-challenge">
+    <test name="code-challenge-tests">
+        <classes>
+            <class name="com.pageTests.SignInTest"/>
+            <class name="com.pageTests.HotelBookingTest"/>
+            <class name="com.pageTests.FlightBookingTest"/>
+        </classes>
+    </test>
+</suite>
