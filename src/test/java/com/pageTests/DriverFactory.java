@@ -2,10 +2,8 @@ package com.pageTests;
 
 import com.sun.javafx.PlatformUtil;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
 public class DriverFactory {
@@ -17,7 +15,7 @@ public class DriverFactory {
     @BeforeMethod
     public void setup() {
         try {
-            System.out.println("-- Inside BeforeClass --");
+            System.out.println("-- Inside BeforeMethod --");
             setDriver(url);
         } catch (Exception e) {
             e.printStackTrace();
@@ -25,6 +23,7 @@ public class DriverFactory {
     }
 
     public void setDriver(String url){
+
         if (PlatformUtil.isMac()) {
             System.setProperty("webdriver.chrome.driver", "lib/chromedriver");
         }

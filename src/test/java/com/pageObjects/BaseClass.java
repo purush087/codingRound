@@ -23,9 +23,9 @@ public class BaseClass {
         this.driver = driver;
         wait = new WebDriverWait(this.driver, 30);
     }
-    WebElement waitForElementToBevisible(By by) {
+    WebElement waitForElementToBeClickable(WebElement element) {
         WebElement myDynamicElement = (new WebDriverWait(driver, 10))
-                .until(ExpectedConditions.elementToBeClickable(by));
+                .until(ExpectedConditions.elementToBeClickable(element));
         return myDynamicElement;
     }
 }

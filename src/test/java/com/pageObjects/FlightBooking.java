@@ -16,9 +16,7 @@ import java.util.List;
 public class FlightBooking extends BaseClass {
     WebDriver driver;
 
-    private By options = By.id("ui-id-1");
-    private By options2 = By.id("ui-id-2");
-    private By optionsTag = By.tagName("li");
+
 
     @FindBy(id = "OneWay")
     private WebElement radioOneWay;
@@ -26,11 +24,11 @@ public class FlightBooking extends BaseClass {
     @FindBy(id = "FromTag")
     private WebElement FromTag;
 
-    /*@FindBy(id="ui-id-1")
+    @FindBy(id="ui-id-1")
     private WebElement options;
 
     @FindBy(id = "ui-id-2")
-    private WebElement options2;*/
+    private WebElement options2;
 
     @FindBy(id = "ToTag")
     private WebElement ToTag;
@@ -61,16 +59,16 @@ public class FlightBooking extends BaseClass {
         radioOneWay.click();
         FromTag.clear();
         FromTag.sendKeys("Bangalore");
-        WebElement opt = waitForElementToBevisible(options);
-        List<WebElement> originOptions = opt.findElements(optionsTag);
+        WebElement opt = waitForElementToBeClickable(options);
+        List<WebElement> originOptions = opt.findElements(By.tagName("li"));
         originOptions.get(0).click();
     }
 
     public void setToLocation(){
         ToTag.clear();
         ToTag.sendKeys("Delhi");
-        WebElement opt = waitForElementToBevisible(options2);
-        List<WebElement> originOptions = opt.findElements(optionsTag);
+        WebElement opt = waitForElementToBeClickable(options2);
+        List<WebElement> originOptions = opt.findElements(By.tagName("li"));
         originOptions.get(0).click();
     }
 
