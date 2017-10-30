@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 /**
  * Created by purushtoman on 16/10/17.
  */
-public class HotelBooking extends BaseClass{
+public class HotelBookingPage{
     WebDriver driver;
 
     @FindBy(linkText = "Hotels")
@@ -24,10 +24,8 @@ public class HotelBooking extends BaseClass{
     @FindBy(id = "travellersOnhome")
     private WebElement travellerSelection;
 
-    public HotelBooking(WebDriver driver){
-        super(driver);
+    public HotelBookingPage(WebDriver driver){
         this.driver = driver;
-        PageFactory.initElements(driver,this);
     }
 
     public void clickOnHotels() {

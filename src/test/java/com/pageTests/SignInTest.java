@@ -1,28 +1,15 @@
 package com.pageTests;
 
-import com.pageObjects.SignIn;
+import com.specs.SpecWithPageStoreImpl;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class SignInTest extends DriverFactory {
-
-    SignIn signInPage;
+public class SignInTest extends BaseScenario {
 
     @Test
-    public void clickOnSignInButton(){
-        signInPage = new SignIn(driver);
-        signInPage.clickOnSignInButton();
-        String error = signInPage.loginFlow();
+    public void userSignIn(){
+        given(user).clickOnSignInButton();
+        String error = then(user).signIn();
         Assert.assertTrue(error.contains("There were errors in your submission"));
     }
-
-    @Test
-    public void foo(){
-        signInPage = new SignIn(driver);
-        signInPage.clickOnSignInButton();
-        String error = signInPage.loginFlow();
-        Assert.assertTrue(error.contains("There were errors in your submission"));
-    }
-
-
 }

@@ -4,19 +4,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
-
-import java.util.Collection;
-import java.util.Iterator;
+import util.WaitFor;
 import java.util.List;
 
 /**
  * Created by purushtoman on 17/10/17.
  */
-public class FlightBooking extends BaseClass {
+public class FlightBookingPage {
     WebDriver driver;
 
-
+    WaitFor wait;
 
     @FindBy(id = "OneWay")
     private WebElement radioOneWay;
@@ -47,43 +44,38 @@ public class FlightBooking extends BaseClass {
 
 
 
-    public FlightBooking(WebDriver driver) {
-        super(driver);
+    public FlightBookingPage(WebDriver driver) {
         this.driver = driver;
-        PageFactory.initElements(driver,this);
     }
 
 
-    public void setFromLocation() {
-        // baseClass.waitFor(2000);
+    public void setFromLocation(String location) {
+        wait.waitForElementToBeClickable(radioOneWay);
         radioOneWay.click();
         FromTag.clear();
-        FromTag.sendKeys("Bangalore");
-        WebElement opt = waitForElementToBeClickable(options);
+        FromTag.sendKeys(location);
+        WebElement opt = wait.waitForElementToBeClickable(options);
         List<WebElement> originOptions = opt.findElements(By.tagName("li"));
         originOptions.get(0).click();
     }
 
-    public void setToLocation(){
+    public void setToLocation(String location){
         ToTag.clear();
-        ToTag.sendKeys("Delhi");
-        WebElement opt = waitForElementToBeClickable(options2);
+        ToTag.sendKeys(location);
+        WebElement opt = wait.waitForElementToBeClickable(options2);
         List<WebElement> originOptions = opt.findElements(By.tagName("li"));
         originOptions.get(0).click();
     }
 
-    public void destinationOptions() throws InterruptedException {
-
-        /*List<WebElement> originOptions = driver.findElement(By.id("ui-id-1")).findElements(By.tagName("li"));
-        originOptions.get(0).click();*/
+    public void destinationOptions() {
         dateOfDepartureBox.click();
-        Thread.sleep(2000);
+        wait.waitForElementToBeClickable(calendarClick);
         //Changed to valid date xpath location as the date was pointed to previous invalid date that cannot be selected.
         calendarClick.click();
     }
 
     public WebElement clickSearch(){
-        //baseClass.waitFor(2000);
+        wait.waitForElementToBeClickable(search);
         search.click();
         return searchSummary;
     }
