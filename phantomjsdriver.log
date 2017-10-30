@@ -1,0 +1,667 @@
+[INFO  - 2017-10-30T12:18:19.953Z] GhostDriver - Main - running on port 33738
+[INFO  - 2017-10-30T12:18:20.170Z] Session [6aa90970-bd6c-11e7-8627-6f5eab1cd3ee] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:18:20.170Z] Session [6aa90970-bd6c-11e7-8627-6f5eab1cd3ee] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:18:20.170Z] Session [6aa90970-bd6c-11e7-8627-6f5eab1cd3ee] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:18:20.170Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6aa90970-bd6c-11e7-8627-6f5eab1cd3ee
+[INFO  - 2017-10-30T12:18:20.978Z] GhostDriver - Main - running on port 16931
+[INFO  - 2017-10-30T12:18:21.220Z] Session [6b487dc0-bd6c-11e7-95bc-e1a2f6314772] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:18:21.220Z] Session [6b487dc0-bd6c-11e7-95bc-e1a2f6314772] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:18:21.220Z] Session [6b487dc0-bd6c-11e7-95bc-e1a2f6314772] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:18:21.220Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6b487dc0-bd6c-11e7-95bc-e1a2f6314772
+[INFO  - 2017-10-30T12:18:21.993Z] GhostDriver - Main - running on port 19089
+[INFO  - 2017-10-30T12:18:22.205Z] Session [6bdf6690-bd6c-11e7-bde7-e38f6b204da0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:18:22.205Z] Session [6bdf6690-bd6c-11e7-bde7-e38f6b204da0] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:18:22.206Z] Session [6bdf6690-bd6c-11e7-bde7-e38f6b204da0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:18:22.206Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6bdf6690-bd6c-11e7-bde7-e38f6b204da0
+[INFO  - 2017-10-30T12:21:09.656Z] GhostDriver - Main - running on port 23168
+[INFO  - 2017-10-30T12:21:09.933Z] Session [cfd8a990-bd6c-11e7-bbe5-bfb4205aad05] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:21:09.933Z] Session [cfd8a990-bd6c-11e7-bbe5-bfb4205aad05] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:21:09.933Z] Session [cfd8a990-bd6c-11e7-bbe5-bfb4205aad05] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:21:09.933Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cfd8a990-bd6c-11e7-bbe5-bfb4205aad05
+[INFO  - 2017-10-30T12:21:10.776Z] GhostDriver - Main - running on port 25513
+[INFO  - 2017-10-30T12:21:10.988Z] Session [d0797d70-bd6c-11e7-9af5-41d112923bb7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:21:10.989Z] Session [d0797d70-bd6c-11e7-9af5-41d112923bb7] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:21:10.989Z] Session [d0797d70-bd6c-11e7-9af5-41d112923bb7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:21:10.989Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d0797d70-bd6c-11e7-9af5-41d112923bb7
+[INFO  - 2017-10-30T12:21:11.796Z] GhostDriver - Main - running on port 37151
+[INFO  - 2017-10-30T12:21:11.992Z] Session [d112d740-bd6c-11e7-9523-0184fb790ce9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:21:11.992Z] Session [d112d740-bd6c-11e7-9523-0184fb790ce9] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:21:11.992Z] Session [d112d740-bd6c-11e7-9523-0184fb790ce9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:21:11.992Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d112d740-bd6c-11e7-9523-0184fb790ce9
+[INFO  - 2017-10-30T12:21:54.979Z] GhostDriver - Main - running on port 38537
+[INFO  - 2017-10-30T12:21:55.265Z] Session [eaddede0-bd6c-11e7-b9ac-1f21889a23cc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:21:55.266Z] Session [eaddede0-bd6c-11e7-b9ac-1f21889a23cc] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:21:55.266Z] Session [eaddede0-bd6c-11e7-b9ac-1f21889a23cc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:21:55.266Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: eaddede0-bd6c-11e7-b9ac-1f21889a23cc
+[INFO  - 2017-10-30T12:21:56.119Z] GhostDriver - Main - running on port 7248
+[INFO  - 2017-10-30T12:21:56.303Z] Session [eb7bb480-bd6c-11e7-8bbc-41d3aa035116] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:21:56.303Z] Session [eb7bb480-bd6c-11e7-8bbc-41d3aa035116] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:21:56.303Z] Session [eb7bb480-bd6c-11e7-8bbc-41d3aa035116] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:21:56.303Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: eb7bb480-bd6c-11e7-8bbc-41d3aa035116
+[INFO  - 2017-10-30T12:21:57.170Z] GhostDriver - Main - running on port 17934
+[INFO  - 2017-10-30T12:21:57.310Z] Session [ec15d1a0-bd6c-11e7-b4d5-676afcd1ccd3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:21:57.310Z] Session [ec15d1a0-bd6c-11e7-b4d5-676afcd1ccd3] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:21:57.311Z] Session [ec15d1a0-bd6c-11e7-b4d5-676afcd1ccd3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:21:57.311Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ec15d1a0-bd6c-11e7-b4d5-676afcd1ccd3
+[INFO  - 2017-10-30T12:23:19.960Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:23:20.985Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:23:21.995Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:26:09.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:26:10.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:26:11.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:26:54.985Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:26:56.119Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:26:57.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:28:19.964Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:28:20.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:28:21.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:31:09.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:31:10.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:31:11.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:31:25.131Z] GhostDriver - Main - running on port 32584
+[INFO  - 2017-10-30T12:31:25.573Z] Session [3ecbdf10-bd6e-11e7-b0bd-13cbb681a2f8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:31:25.573Z] Session [3ecbdf10-bd6e-11e7-b0bd-13cbb681a2f8] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:31:25.573Z] Session [3ecbdf10-bd6e-11e7-b0bd-13cbb681a2f8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:31:25.573Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3ecbdf10-bd6e-11e7-b0bd-13cbb681a2f8
+[INFO  - 2017-10-30T12:31:26.476Z] GhostDriver - Main - running on port 6736
+[INFO  - 2017-10-30T12:31:26.630Z] Session [3f6c3dc0-bd6e-11e7-9372-7b83b8f2d2e9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:31:26.630Z] Session [3f6c3dc0-bd6e-11e7-9372-7b83b8f2d2e9] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:31:26.630Z] Session [3f6c3dc0-bd6e-11e7-9372-7b83b8f2d2e9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:31:26.631Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3f6c3dc0-bd6e-11e7-9372-7b83b8f2d2e9
+[INFO  - 2017-10-30T12:31:27.613Z] GhostDriver - Main - running on port 46291
+[INFO  - 2017-10-30T12:31:27.625Z] Session [4004fb50-bd6e-11e7-a653-69b810c89ef3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:31:27.625Z] Session [4004fb50-bd6e-11e7-a653-69b810c89ef3] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:31:27.625Z] Session [4004fb50-bd6e-11e7-a653-69b810c89ef3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:31:27.625Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4004fb50-bd6e-11e7-a653-69b810c89ef3
+[INFO  - 2017-10-30T12:31:54.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:31:56.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:31:57.170Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:32:53.291Z] GhostDriver - Main - running on port 18023
+[INFO  - 2017-10-30T12:32:53.510Z] Session [7335b000-bd6e-11e7-b970-116bdc3de4dc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:32:53.511Z] Session [7335b000-bd6e-11e7-b970-116bdc3de4dc] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:32:53.511Z] Session [7335b000-bd6e-11e7-b970-116bdc3de4dc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:32:53.511Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7335b000-bd6e-11e7-b970-116bdc3de4dc
+[INFO  - 2017-10-30T12:32:54.367Z] GhostDriver - Main - running on port 35579
+[INFO  - 2017-10-30T12:32:54.557Z] Session [73d4fd40-bd6e-11e7-b549-912fcdf51e3e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:32:54.557Z] Session [73d4fd40-bd6e-11e7-b549-912fcdf51e3e] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:32:54.557Z] Session [73d4fd40-bd6e-11e7-b549-912fcdf51e3e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:32:54.557Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 73d4fd40-bd6e-11e7-b549-912fcdf51e3e
+[INFO  - 2017-10-30T12:32:55.393Z] GhostDriver - Main - running on port 32633
+[INFO  - 2017-10-30T12:32:55.553Z] Session [746dbad0-bd6e-11e7-a474-15b4cd92fe1f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:32:55.554Z] Session [746dbad0-bd6e-11e7-a474-15b4cd92fe1f] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:32:55.554Z] Session [746dbad0-bd6e-11e7-a474-15b4cd92fe1f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:32:55.554Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 746dbad0-bd6e-11e7-a474-15b4cd92fe1f
+[INFO  - 2017-10-30T12:33:19.964Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:33:20.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:33:21.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:33:22.859Z] GhostDriver - Main - running on port 11669
+[INFO  - 2017-10-30T12:33:23.189Z] Session [84e6cd20-bd6e-11e7-b476-f1739adf06fa] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:33:23.189Z] Session [84e6cd20-bd6e-11e7-b476-f1739adf06fa] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:33:23.189Z] Session [84e6cd20-bd6e-11e7-b476-f1739adf06fa] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:33:23.189Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 84e6cd20-bd6e-11e7-b476-f1739adf06fa
+[INFO  - 2017-10-30T12:33:24.051Z] GhostDriver - Main - running on port 43683
+[INFO  - 2017-10-30T12:33:24.238Z] Session [85861a60-bd6e-11e7-94f4-f9c359af767f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:33:24.238Z] Session [85861a60-bd6e-11e7-94f4-f9c359af767f] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:33:24.238Z] Session [85861a60-bd6e-11e7-94f4-f9c359af767f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:33:24.238Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 85861a60-bd6e-11e7-94f4-f9c359af767f
+[INFO  - 2017-10-30T12:33:25.083Z] GhostDriver - Main - running on port 15868
+[INFO  - 2017-10-30T12:33:25.235Z] Session [861ed7f0-bd6e-11e7-9744-4def9f6938f8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:33:25.235Z] Session [861ed7f0-bd6e-11e7-9744-4def9f6938f8] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:33:25.235Z] Session [861ed7f0-bd6e-11e7-9744-4def9f6938f8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:33:25.235Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 861ed7f0-bd6e-11e7-9744-4def9f6938f8
+[INFO  - 2017-10-30T12:36:09.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:10.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:11.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:25.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:26.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:27.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:48.441Z] GhostDriver - Main - running on port 39542
+[INFO  - 2017-10-30T12:36:48.713Z] Session [ff671f50-bd6e-11e7-bb89-81c9309ca118] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:36:48.713Z] Session [ff671f50-bd6e-11e7-bb89-81c9309ca118] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:36:48.713Z] Session [ff671f50-bd6e-11e7-bb89-81c9309ca118] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:36:48.713Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ff671f50-bd6e-11e7-bb89-81c9309ca118
+[INFO  - 2017-10-30T12:36:49.658Z] GhostDriver - Main - running on port 20069
+[INFO  - 2017-10-30T12:36:49.773Z] Session [00086860-bd6f-11e7-8062-1557f16ee48b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:36:49.773Z] Session [00086860-bd6f-11e7-8062-1557f16ee48b] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:36:49.773Z] Session [00086860-bd6f-11e7-8062-1557f16ee48b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:36:49.773Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 00086860-bd6f-11e7-8062-1557f16ee48b
+[INFO  - 2017-10-30T12:36:50.661Z] GhostDriver - Main - running on port 13207
+[INFO  - 2017-10-30T12:36:50.774Z] Session [00a19b20-bd6f-11e7-b50e-e70b9a71218c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:36:50.774Z] Session [00a19b20-bd6f-11e7-b50e-e70b9a71218c] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:36:50.774Z] Session [00a19b20-bd6f-11e7-b50e-e70b9a71218c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:36:50.774Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 00a19b20-bd6f-11e7-b50e-e70b9a71218c
+[INFO  - 2017-10-30T12:36:54.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:56.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:36:57.171Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:37:53.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:37:54.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:37:55.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:19.964Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:20.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:21.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:22.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:24.065Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:25.088Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:38:26.222Z] GhostDriver - Main - running on port 24359
+[INFO  - 2017-10-30T12:38:26.522Z] Session [39b3be70-bd6f-11e7-b0bf-8fb632abe8a5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:38:26.522Z] Session [39b3be70-bd6f-11e7-b0bf-8fb632abe8a5] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:38:26.523Z] Session [39b3be70-bd6f-11e7-b0bf-8fb632abe8a5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:38:26.523Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 39b3be70-bd6f-11e7-b0bf-8fb632abe8a5
+[INFO  - 2017-10-30T12:38:27.365Z] GhostDriver - Main - running on port 14315
+[INFO  - 2017-10-30T12:38:27.566Z] Session [3a522150-bd6f-11e7-aefd-8fa60ade0137] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:38:27.566Z] Session [3a522150-bd6f-11e7-aefd-8fa60ade0137] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:38:27.567Z] Session [3a522150-bd6f-11e7-aefd-8fa60ade0137] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:38:27.567Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3a522150-bd6f-11e7-aefd-8fa60ade0137
+[INFO  - 2017-10-30T12:38:28.344Z] GhostDriver - Main - running on port 41787
+[INFO  - 2017-10-30T12:38:28.577Z] Session [3aed4fe0-bd6f-11e7-9196-653600c69e08] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:38:28.577Z] Session [3aed4fe0-bd6f-11e7-9196-653600c69e08] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:38:28.577Z] Session [3aed4fe0-bd6f-11e7-9196-653600c69e08] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:38:28.577Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3aed4fe0-bd6f-11e7-9196-653600c69e08
+[INFO  - 2017-10-30T12:41:09.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:10.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:11.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:25.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:26.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:27.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:48.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:49.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:50.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:54.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:56.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:41:57.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:42:53.291Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:42:54.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:42:55.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:19.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:20.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:21.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:22.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:24.064Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:25.091Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:26.223Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:27.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:43:28.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:44:16.587Z] GhostDriver - Main - running on port 33970
+[INFO  - 2017-10-30T12:44:17.037Z] Session [0a9fef90-bd70-11e7-8815-4da5c8d70ed3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:44:17.037Z] Session [0a9fef90-bd70-11e7-8815-4da5c8d70ed3] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:44:17.037Z] Session [0a9fef90-bd70-11e7-8815-4da5c8d70ed3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:44:17.038Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0a9fef90-bd70-11e7-8815-4da5c8d70ed3
+[INFO  - 2017-10-30T12:44:17.919Z] GhostDriver - Main - running on port 44116
+[INFO  - 2017-10-30T12:44:18.086Z] Session [0b3fb200-bd70-11e7-8a39-3756d6b43d97] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:44:18.086Z] Session [0b3fb200-bd70-11e7-8a39-3756d6b43d97] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:44:18.086Z] Session [0b3fb200-bd70-11e7-8a39-3756d6b43d97] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:44:18.086Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0b3fb200-bd70-11e7-8a39-3756d6b43d97
+[INFO  - 2017-10-30T12:44:18.980Z] GhostDriver - Main - running on port 30152
+[INFO  - 2017-10-30T12:44:19.089Z] Session [0bd86f90-bd70-11e7-8595-2dee4702b56b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:44:19.089Z] Session [0bd86f90-bd70-11e7-8595-2dee4702b56b] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:44:19.089Z] Session [0bd86f90-bd70-11e7-8595-2dee4702b56b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:44:19.089Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0bd86f90-bd70-11e7-8595-2dee4702b56b
+[INFO  - 2017-10-30T12:45:00.710Z] GhostDriver - Main - running on port 10959
+[INFO  - 2017-10-30T12:45:01.001Z] Session [24d44f50-bd70-11e7-8fec-875c052c5a99] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:45:01.001Z] Session [24d44f50-bd70-11e7-8fec-875c052c5a99] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:45:01.001Z] Session [24d44f50-bd70-11e7-8fec-875c052c5a99] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:45:01.001Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 24d44f50-bd70-11e7-8fec-875c052c5a99
+[INFO  - 2017-10-30T12:45:01.844Z] GhostDriver - Main - running on port 43035
+[INFO  - 2017-10-30T12:45:02.050Z] Session [2573eab0-bd70-11e7-8503-492d471249d6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:45:02.050Z] Session [2573eab0-bd70-11e7-8503-492d471249d6] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:45:02.050Z] Session [2573eab0-bd70-11e7-8503-492d471249d6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:45:02.050Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2573eab0-bd70-11e7-8503-492d471249d6
+[INFO  - 2017-10-30T12:45:02.845Z] GhostDriver - Main - running on port 45320
+[INFO  - 2017-10-30T12:45:03.054Z] Session [260d92a0-bd70-11e7-87ea-977d2a9e14be] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:45:03.055Z] Session [260d92a0-bd70-11e7-87ea-977d2a9e14be] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:45:03.055Z] Session [260d92a0-bd70-11e7-87ea-977d2a9e14be] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:45:03.055Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 260d92a0-bd70-11e7-87ea-977d2a9e14be
+[INFO  - 2017-10-30T12:46:09.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:10.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:11.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:25.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:26.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:27.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:48.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:49.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:50.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:54.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:56.119Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:46:57.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:47:53.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:47:54.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:47:55.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:19.968Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:20.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:21.996Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:22.861Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:24.066Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:25.091Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:26.223Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:27.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:48:28.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:49:16.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:49:17.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:49:18.985Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:50:00.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:50:01.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:50:02.846Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:50:56.206Z] GhostDriver - Main - running on port 31276
+[INFO  - 2017-10-30T12:50:56.445Z] Session [f8b0c290-bd70-11e7-8f7b-3b0ae459f139] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:50:56.445Z] Session [f8b0c290-bd70-11e7-8f7b-3b0ae459f139] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:50:56.445Z] Session [f8b0c290-bd70-11e7-8f7b-3b0ae459f139] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:50:56.445Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f8b0c290-bd70-11e7-8f7b-3b0ae459f139
+[INFO  - 2017-10-30T12:50:57.293Z] GhostDriver - Main - running on port 27241
+[INFO  - 2017-10-30T12:50:57.481Z] Session [f94ed750-bd70-11e7-a115-030aa8153e46] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:50:57.481Z] Session [f94ed750-bd70-11e7-a115-030aa8153e46] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:50:57.481Z] Session [f94ed750-bd70-11e7-a115-030aa8153e46] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:50:57.481Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f94ed750-bd70-11e7-a115-030aa8153e46
+[INFO  - 2017-10-30T12:50:58.344Z] GhostDriver - Main - running on port 25868
+[INFO  - 2017-10-30T12:50:58.484Z] Session [f9e76dd0-bd70-11e7-bcc3-6bed0f57c0d6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:50:58.484Z] Session [f9e76dd0-bd70-11e7-bcc3-6bed0f57c0d6] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:50:58.484Z] Session [f9e76dd0-bd70-11e7-bcc3-6bed0f57c0d6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:50:58.484Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f9e76dd0-bd70-11e7-bcc3-6bed0f57c0d6
+[INFO  - 2017-10-30T12:51:09.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:10.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:11.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:25.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:26.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:27.657Z] GhostDriver - Main - running on port 40787
+[INFO  - 2017-10-30T12:51:27.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:27.974Z] Session [0b7bb420-bd71-11e7-ba4b-b5079521783b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:51:27.974Z] Session [0b7bb420-bd71-11e7-ba4b-b5079521783b] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:51:27.974Z] Session [0b7bb420-bd71-11e7-ba4b-b5079521783b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:51:27.974Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0b7bb420-bd71-11e7-ba4b-b5079521783b
+[INFO  - 2017-10-30T12:51:28.901Z] GhostDriver - Main - running on port 18354
+[INFO  - 2017-10-30T12:51:29.023Z] Session [0c1bc4b0-bd71-11e7-91f1-a9ee2de1460f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:51:29.023Z] Session [0c1bc4b0-bd71-11e7-91f1-a9ee2de1460f] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:51:29.023Z] Session [0c1bc4b0-bd71-11e7-91f1-a9ee2de1460f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:51:29.023Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0c1bc4b0-bd71-11e7-91f1-a9ee2de1460f
+[INFO  - 2017-10-30T12:51:29.878Z] GhostDriver - Main - running on port 5848
+[INFO  - 2017-10-30T12:51:30.026Z] Session [0cb45b30-bd71-11e7-bd00-e57f0b20f16e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:51:30.026Z] Session [0cb45b30-bd71-11e7-bd00-e57f0b20f16e] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:51:30.026Z] Session [0cb45b30-bd71-11e7-bd00-e57f0b20f16e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:51:30.027Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0cb45b30-bd71-11e7-bd00-e57f0b20f16e
+[INFO  - 2017-10-30T12:51:48.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:49.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:50.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:54.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:56.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:51:57.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:52:53.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:52:54.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:52:55.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:19.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:20.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:21.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:22.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:24.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:25.094Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:26.227Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:27.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:53:28.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:54:16.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:54:17.915Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:54:18.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:55:00.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:55:01.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:55:02.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:55:44.133Z] GhostDriver - Main - running on port 24617
+[INFO  - 2017-10-30T12:55:44.568Z] Session [a46cb030-bd71-11e7-9461-29c0fb543e30] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:55:44.568Z] Session [a46cb030-bd71-11e7-9461-29c0fb543e30] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:55:44.568Z] Session [a46cb030-bd71-11e7-9461-29c0fb543e30] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:55:44.568Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a46cb030-bd71-11e7-9461-29c0fb543e30
+[INFO  - 2017-10-30T12:55:45.586Z] GhostDriver - Main - running on port 10177
+[INFO  - 2017-10-30T12:55:45.612Z] Session [a50c2480-bd71-11e7-9ab0-83546fbf4ce3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:55:45.612Z] Session [a50c2480-bd71-11e7-9ab0-83546fbf4ce3] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:55:45.612Z] Session [a50c2480-bd71-11e7-9ab0-83546fbf4ce3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:55:45.612Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a50c2480-bd71-11e7-9ab0-83546fbf4ce3
+[INFO  - 2017-10-30T12:55:46.669Z] GhostDriver - Main - running on port 8581
+[INFO  - 2017-10-30T12:55:46.928Z] Session [a5d4f2c0-bd71-11e7-bde4-63f414bea877] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:55:46.928Z] Session [a5d4f2c0-bd71-11e7-bde4-63f414bea877] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:55:46.928Z] Session [a5d4f2c0-bd71-11e7-bde4-63f414bea877] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:55:46.928Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a5d4f2c0-bd71-11e7-bde4-63f414bea877
+[INFO  - 2017-10-30T12:55:56.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:55:57.296Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:55:58.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:09.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:10.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:11.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:25.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:26.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:27.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:27.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:28.902Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:29.881Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:48.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:49.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:50.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:54.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:56.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:56:57.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:57:53.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:57:54.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:57:55.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:19.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:20.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:21.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:22.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:24.066Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:25.093Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:26.237Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:27.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:58:28.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:59:02.419Z] GhostDriver - Main - running on port 12810
+[INFO  - 2017-10-30T12:59:02.723Z] Session [1a890c00-bd72-11e7-ab04-5302a4e36b94] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:59:02.724Z] Session [1a890c00-bd72-11e7-ab04-5302a4e36b94] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:59:02.724Z] Session [1a890c00-bd72-11e7-ab04-5302a4e36b94] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:59:02.724Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1a890c00-bd72-11e7-ab04-5302a4e36b94
+[ERROR - 2017-10-30T12:59:05.699Z] Session [1a890c00-bd72-11e7-ab04-5302a4e36b94] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T12:59:05.699Z] Session [1a890c00-bd72-11e7-ab04-5302a4e36b94] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T12:59:14.136Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T12:59:16.020Z] GhostDriver - Main - running on port 37486
+[INFO  - 2017-10-30T12:59:16.191Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:59:16.191Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:59:16.191Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:59:16.191Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 228fcba0-bd72-11e7-94aa-7706659addeb
+[INFO  - 2017-10-30T12:59:16.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T12:59:17.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-10-30T12:59:18.768Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T12:59:18.768Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T12:59:18.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-10-30T12:59:21.793Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T12:59:21.793Z] Session [228fcba0-bd72-11e7-94aa-7706659addeb] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T12:59:23.646Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T12:59:25.527Z] GhostDriver - Main - running on port 21208
+[INFO  - 2017-10-30T12:59:25.703Z] Session [283b5d30-bd72-11e7-bc06-e192ca02ac2d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T12:59:25.703Z] Session [283b5d30-bd72-11e7-bc06-e192ca02ac2d] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T12:59:25.703Z] Session [283b5d30-bd72-11e7-bc06-e192ca02ac2d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T12:59:25.703Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 283b5d30-bd72-11e7-bc06-e192ca02ac2d
+[ERROR - 2017-10-30T12:59:28.059Z] Session [283b5d30-bd72-11e7-bc06-e192ca02ac2d] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T12:59:28.059Z] Session [283b5d30-bd72-11e7-bc06-e192ca02ac2d] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T12:59:34.276Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:00:00.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:01.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:02.848Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:44.142Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:45.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:46.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:56.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:57.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:00:58.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:09.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:10.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:11.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:22.274Z] GhostDriver - Main - running on port 11752
+[INFO  - 2017-10-30T13:01:22.641Z] Session [6dee88c0-bd72-11e7-8966-6d3e90487645] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:01:22.641Z] Session [6dee88c0-bd72-11e7-8966-6d3e90487645] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:01:22.641Z] Session [6dee88c0-bd72-11e7-8966-6d3e90487645] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:01:22.641Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6dee88c0-bd72-11e7-8966-6d3e90487645
+[ERROR - 2017-10-30T13:01:24.722Z] Session [6dee88c0-bd72-11e7-8966-6d3e90487645] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:01:24.722Z] Session [6dee88c0-bd72-11e7-8966-6d3e90487645] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:01:25.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:26.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:27.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:27.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:28.901Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:29.883Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:31.719Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:01:33.565Z] GhostDriver - Main - running on port 20664
+[INFO  - 2017-10-30T13:01:33.769Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:01:33.770Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:01:33.770Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:01:33.770Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7490af50-bd72-11e7-93ef-cdff489ab088
+[ERROR - 2017-10-30T13:01:35.936Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:01:35.936Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:01:41.514Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:01:41.514Z] Session [7490af50-bd72-11e7-93ef-cdff489ab088] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:01:43.302Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:01:45.169Z] GhostDriver - Main - running on port 39408
+[INFO  - 2017-10-30T13:01:45.349Z] Session [7b77a710-bd72-11e7-b35a-a7e6d2b6a616] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:01:45.349Z] Session [7b77a710-bd72-11e7-b35a-a7e6d2b6a616] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:01:45.349Z] Session [7b77a710-bd72-11e7-b35a-a7e6d2b6a616] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:01:45.349Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7b77a710-bd72-11e7-b35a-a7e6d2b6a616
+[ERROR - 2017-10-30T13:01:47.629Z] Session [7b77a710-bd72-11e7-b35a-a7e6d2b6a616] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:01:47.630Z] Session [7b77a710-bd72-11e7-b35a-a7e6d2b6a616] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:01:48.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:49.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:50.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:54.976Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:01:54.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:56.121Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:01:57.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:02:53.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:02:54.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:02:55.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:02:58.056Z] GhostDriver - Main - running on port 22878
+[INFO  - 2017-10-30T13:02:58.234Z] Session [a6e90560-bd72-11e7-b0a3-19601e3c6ff8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:02:58.234Z] Session [a6e90560-bd72-11e7-b0a3-19601e3c6ff8] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:02:58.234Z] Session [a6e90560-bd72-11e7-b0a3-19601e3c6ff8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:02:58.234Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a6e90560-bd72-11e7-b0a3-19601e3c6ff8
+[ERROR - 2017-10-30T13:03:00.830Z] Session [a6e90560-bd72-11e7-b0a3-19601e3c6ff8] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:03:00.830Z] Session [a6e90560-bd72-11e7-b0a3-19601e3c6ff8] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:03:07.577Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509368587549
+[INFO  - 2017-10-30T13:03:09.577Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:03:11.506Z] GhostDriver - Main - running on port 28251
+[INFO  - 2017-10-30T13:03:11.635Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:03:11.635Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:03:11.635Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:03:11.635Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aee5b2e0-bd72-11e7-8913-332466b47350
+[ERROR - 2017-10-30T13:03:13.824Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:03:13.825Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:03:18.280Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:03:18.280Z] Session [aee5b2e0-bd72-11e7-8913-332466b47350] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:03:19.968Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:20.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:21.046Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:03:21.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:22.867Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:22.951Z] GhostDriver - Main - running on port 1301
+[INFO  - 2017-10-30T13:03:23.101Z] Session [b5bb4580-bd72-11e7-979d-a5b318a9c908] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:03:23.101Z] Session [b5bb4580-bd72-11e7-979d-a5b318a9c908] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:03:23.101Z] Session [b5bb4580-bd72-11e7-979d-a5b318a9c908] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:03:23.101Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b5bb4580-bd72-11e7-979d-a5b318a9c908
+[INFO  - 2017-10-30T13:03:24.069Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:25.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-10-30T13:03:25.845Z] Session [b5bb4580-bd72-11e7-979d-a5b318a9c908] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:03:25.845Z] Session [b5bb4580-bd72-11e7-979d-a5b318a9c908] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:03:26.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:27.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:28.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:03:32.226Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:04:16.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:04:17.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:04:18.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:00.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:01.846Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:02.847Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:33.284Z] GhostDriver - Main - running on port 37649
+[INFO  - 2017-10-30T13:05:33.626Z] Session [03881c70-bd73-11e7-a29b-f5f40a52df4e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:05:33.626Z] Session [03881c70-bd73-11e7-a29b-f5f40a52df4e] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:05:33.626Z] Session [03881c70-bd73-11e7-a29b-f5f40a52df4e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:05:33.627Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 03881c70-bd73-11e7-a29b-f5f40a52df4e
+[ERROR - 2017-10-30T13:05:36.162Z] Session [03881c70-bd73-11e7-a29b-f5f40a52df4e] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:05:36.162Z] Session [03881c70-bd73-11e7-a29b-f5f40a52df4e] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:05:42.310Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:05:44.140Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:44.163Z] GhostDriver - Main - running on port 7656
+[INFO  - 2017-10-30T13:05:44.403Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:05:44.403Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:05:44.404Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:05:44.404Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 09f3c9b0-bd73-11e7-b887-d98ff66197d9
+[INFO  - 2017-10-30T13:05:45.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:46.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-10-30T13:05:47.285Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:05:47.285Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:05:53.559Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:05:53.559Z] Session [09f3c9b0-bd73-11e7-b887-d98ff66197d9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:05:55.728Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:05:56.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:57.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:05:57.604Z] GhostDriver - Main - running on port 5200
+[INFO  - 2017-10-30T13:05:57.793Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:05:57.793Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:05:57.793Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:05:57.793Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 11ef8cd0-bd73-11e7-a59f-617b47c109f9
+[INFO  - 2017-10-30T13:05:58.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-10-30T13:06:01.419Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:06:01.419Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:06:07.891Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 288042424732696
+[ERROR - 2017-10-30T13:06:07.891Z] Session [11ef8cd0-bd73-11e7-a59f-617b47c109f9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:06:08.270Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:06:09.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:10.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:11.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:25.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:26.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:27.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:27.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:28.901Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:29.880Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:48.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:49.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:50.758Z] GhostDriver - Main - running on port 3328
+[INFO  - 2017-10-30T13:06:50.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:51.116Z] Session [31b7fe80-bd73-11e7-bdce-8f91e0eb98bb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:06:51.116Z] Session [31b7fe80-bd73-11e7-bdce-8f91e0eb98bb] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:06:51.116Z] Session [31b7fe80-bd73-11e7-bdce-8f91e0eb98bb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:06:51.116Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 31b7fe80-bd73-11e7-bdce-8f91e0eb98bb
+[ERROR - 2017-10-30T13:06:53.715Z] Session [31b7fe80-bd73-11e7-bdce-8f91e0eb98bb] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:06:53.715Z] Session [31b7fe80-bd73-11e7-bdce-8f91e0eb98bb] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:06:54.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:56.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:06:57.174Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:07:05.736Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:07:06.580Z] GhostDriver - Main - running on port 30707
+[INFO  - 2017-10-30T13:07:06.809Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:07:06.809Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:07:06.809Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:07:06.809Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3b128e50-bd73-11e7-ad9f-f12e4f56ae78
+[ERROR - 2017-10-30T13:07:08.984Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:07:08.984Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:07:13.496Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:07:13.496Z] Session [3b128e50-bd73-11e7-ad9f-f12e4f56ae78] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:07:14.951Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:07:16.792Z] GhostDriver - Main - running on port 14935
+[INFO  - 2017-10-30T13:07:17.004Z] Session [41263080-bd73-11e7-a91c-e184535cc6ef] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:07:17.004Z] Session [41263080-bd73-11e7-a91c-e184535cc6ef] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:07:17.004Z] Session [41263080-bd73-11e7-a91c-e184535cc6ef] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:07:17.004Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 41263080-bd73-11e7-a91c-e184535cc6ef
+[ERROR - 2017-10-30T13:07:19.465Z] Session [41263080-bd73-11e7-a91c-e184535cc6ef] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:07:19.465Z] Session [41263080-bd73-11e7-a91c-e184535cc6ef] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:07:25.889Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:07:53.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:07:54.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:07:55.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:04.428Z] GhostDriver - Main - running on port 10540
+[INFO  - 2017-10-30T13:08:04.701Z] Session [5d940580-bd73-11e7-89cf-1ddf8bba0e59] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:08:04.701Z] Session [5d940580-bd73-11e7-89cf-1ddf8bba0e59] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:08:04.701Z] Session [5d940580-bd73-11e7-89cf-1ddf8bba0e59] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:08:04.702Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5d940580-bd73-11e7-89cf-1ddf8bba0e59
+[ERROR - 2017-10-30T13:08:07.195Z] Session [5d940580-bd73-11e7-89cf-1ddf8bba0e59] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:08:07.195Z] Session [5d940580-bd73-11e7-89cf-1ddf8bba0e59] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:08:14.138Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:08:16.018Z] GhostDriver - Main - running on port 1159
+[INFO  - 2017-10-30T13:08:16.191Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:08:16.191Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:08:16.191Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:08:16.191Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 646d68b0-bd73-11e7-92d7-351ccdb4c975
+[ERROR - 2017-10-30T13:08:18.452Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:08:18.452Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:08:19.970Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:20.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:21.997Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:22.867Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:24.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-10-30T13:08:24.548Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:08:24.548Z] Session [646d68b0-bd73-11e7-92d7-351ccdb4c975] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:08:25.095Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:26.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:26.865Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:08:27.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:28.758Z] GhostDriver - Main - running on port 11663
+[INFO  - 2017-10-30T13:08:28.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:08:28.916Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:08:28.916Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:08:28.916Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:08:28.916Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6c031700-bd73-11e7-b323-fd12e101ffd9
+[ERROR - 2017-10-30T13:08:31.143Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:08:31.143Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:08:36.153Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 288042424732696
+[ERROR - 2017-10-30T13:08:36.153Z] Session [6c031700-bd73-11e7-b323-fd12e101ffd9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:08:36.591Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:09:16.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:09:17.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:09:18.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:09:29.709Z] GhostDriver - Main - running on port 7361
+[INFO  - 2017-10-30T13:09:30.067Z] Session [90762500-bd73-11e7-8d48-3fc67ecc891b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:09:30.068Z] Session [90762500-bd73-11e7-8d48-3fc67ecc891b] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:09:30.068Z] Session [90762500-bd73-11e7-8d48-3fc67ecc891b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:09:30.068Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 90762500-bd73-11e7-8d48-3fc67ecc891b
+[ERROR - 2017-10-30T13:09:32.446Z] Session [90762500-bd73-11e7-8d48-3fc67ecc891b] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:09:32.446Z] Session [90762500-bd73-11e7-8d48-3fc67ecc891b] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:09:36.725Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:09:38.622Z] GhostDriver - Main - running on port 4628
+[INFO  - 2017-10-30T13:09:38.776Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:09:38.776Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:09:38.777Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:09:38.777Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 95a64500-bd73-11e7-95b2-fb46fc27a5c0
+[ERROR - 2017-10-30T13:09:41.688Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:09:41.688Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:09:47.390Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:09:47.390Z] Session [95a64500-bd73-11e7-95b2-fb46fc27a5c0] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:09:48.109Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:09:49.949Z] GhostDriver - Main - running on port 19029
+[INFO  - 2017-10-30T13:09:50.167Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-30T13:09:50.167Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - page.customHeaders:  - {}
+[INFO  - 2017-10-30T13:09:50.167Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-30T13:09:50.167Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9c710230-bd73-11e7-ae58-0d0fa5ee2263
+[ERROR - 2017-10-30T13:09:52.852Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-10-30T13:09:52.852Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-10-30T13:09:58.957Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 288042424732696
+[ERROR - 2017-10-30T13:09:58.957Z] Session [9c710230-bd73-11e7-ae58-0d0fa5ee2263] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-10-30T13:09:59.011Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-10-30T13:10:00.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:01.846Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:02.848Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:44.142Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:45.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:46.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:56.218Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:57.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:10:58.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:09.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:10.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:11.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:25.846Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:26.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:27.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:27.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:28.902Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-10-30T13:11:29.882Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

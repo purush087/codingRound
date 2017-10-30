@@ -1,13 +1,14 @@
 package com.pageTests;
 
 import com.sun.javafx.PlatformUtil;
+import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
+
 import org.openqa.selenium.phantomjs.PhantomJSDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriverService;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.PageFactory;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,7 +19,7 @@ public class PageStore {
     List<Object> pages;
 
     public PageStore() {
-        if (PlatformUtil.isMac()) {
+        /*if (PlatformUtil.isMac()) {
             System.setProperty("webdriver.chrome.driver", "lib/chromedriver");
         }
         if (PlatformUtil.isWindows()) {
@@ -26,11 +27,18 @@ public class PageStore {
         }
         if (PlatformUtil.isLinux()) {
             System.setProperty("webdriver.chrome.driver", "lib/chromedriver_linux");
-        }
-        ChromeOptions options = new ChromeOptions();
+        }*/
+        /*ChromeOptions options = new ChromeOptions();
         options.addArguments("headless");
         options.addArguments("window-size=2560x1600");
-        driver = new ChromeDriver();
+        driver = new ChromeDriver();*/
+        DesiredCapabilities caps = new DesiredCapabilities();
+        caps.setJavascriptEnabled(true);
+        caps.setCapability("Platform", Platform.ANY);
+        caps.setCapability("takesScreenshot", true);
+        caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY, "/Users/purushothamreddy/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs");
+        System.setProperty("phantomjs.binary.path", "/Users/purushothamreddy/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs");
+        driver = new PhantomJSDriver();
         pages = new ArrayList<Object>();
     }
 

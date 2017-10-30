@@ -15,7 +15,7 @@ dependencies {
     compile group: 'junit', name: 'junit', version: '4.11'
 
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.6.0'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.5.3'
 
     compile group: 'org.testng', name: 'testng', version: '6.11'
 
@@ -24,7 +24,6 @@ dependencies {
 
     // https://mvnrepository.com/artifact/com.codeborne/phantomjsdriver
     compile group: 'com.codeborne', name: 'phantomjsdriver', version: '1.4.3'
-
 
 }
 
