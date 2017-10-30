@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import util.WaitFor;
 
 
 /**
@@ -16,7 +17,7 @@ public class SignInPage {
     private String error,
             frameId = "modal_window";
 
-    @FindBy(linkText = "Your trips")
+    @FindBy(id = "userAccountLink")
     private WebElement linkText;
 
     @FindBy(id = "SignIn")
@@ -37,6 +38,7 @@ public class SignInPage {
     }
 
     public void clickOnSignInButton() {
+        new WaitFor().waitForElementToBeClickable(linkText,driver);
         linkText.click();
         signIn.click();
     }

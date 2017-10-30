@@ -4,6 +4,9 @@ import com.specs.SpecWithPageStoreImpl;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -14,9 +17,9 @@ import java.io.IOException;
 
 public class BaseScenario {
 
-    WebDriver driver;
     PageStore pageStore;
     SpecWithPageStoreImpl user;
+    WebDriver driver;
     String url = "https://www.cleartrip.com/";
 
 
@@ -27,8 +30,8 @@ public class BaseScenario {
         driver = pageStore.getDriver();
         driver.get(url);
         System.out.println("----Inside Before Method-------");
-        driver.manage().window().maximize();
-        System.out.println("-----Driver maximizes the window-----");
+        /*driver.manage().window().maximize();
+        System.out.println("-----Driver maximizes the window-----");*/
     }
 
     protected <T extends SpecWithPageStoreImpl> T given(T dsl) {
@@ -79,6 +82,12 @@ public class BaseScenario {
         String rootPath = new File(".").getCanonicalPath();
         String fullPath = String.format("%s//%s//%s.%s", rootPath, folderName, fileName, ext);
         return new File(fullPath);
+    }
+
+    public WebElement waitForElementToBeClickable(WebElement element) {
+        WebElement myDynamicElement = (new WebDriverWait(driver, 10))
+                .until(ExpectedConditions.elementToBeClickable(element));
+        return myDynamicElement;
     }
 }
 

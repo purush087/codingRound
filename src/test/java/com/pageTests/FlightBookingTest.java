@@ -7,11 +7,10 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class FlightBookingTest extends BaseScenario {
-    private WebElement searchSummary;
 
     @Test
     public void testThatResultsAppearForAOneWayJourney(){
-        searchSummary = given(user).choosesOneWayJourney();
+        WebElement searchSummary = given(user).choosesOneWayJourney();
         Assert.assertTrue(isElementPresent(searchSummary));
     }
 

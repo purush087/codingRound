@@ -4,6 +4,7 @@ version '1.0-SNAPSHOT'
 apply plugin: 'java'
 apply plugin: 'maven'
 
+
 sourceCompatibility = 1.8
 
 repositories {
@@ -12,10 +13,18 @@ repositories {
 
 dependencies {
     compile group: 'junit', name: 'junit', version: '4.11'
+
+    // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.6.0'
+
     compile group: 'org.testng', name: 'testng', version: '6.11'
+
     // https://mvnrepository.com/artifact/commons-io/commons-io
     compile group: 'commons-io', name: 'commons-io', version: '2.6'
+
+    // https://mvnrepository.com/artifact/com.codeborne/phantomjsdriver
+    compile group: 'com.codeborne', name: 'phantomjsdriver', version: '1.4.3'
+
 
 }
 

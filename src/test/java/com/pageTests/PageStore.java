@@ -3,14 +3,18 @@ package com.pageTests;
 import com.sun.javafx.PlatformUtil;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.support.PageFactory;
+
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
 
 public class PageStore {
 
-    WebDriver WebDriver;
+    WebDriver driver;
     List<Object> pages;
 
     public PageStore() {
@@ -23,7 +27,10 @@ public class PageStore {
         if (PlatformUtil.isLinux()) {
             System.setProperty("webdriver.chrome.driver", "lib/chromedriver_linux");
         }
-        WebDriver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("headless");
+        options.addArguments("window-size=2560x1600");
+        driver = new ChromeDriver();
         pages = new ArrayList<Object>();
     }
 
@@ -32,18 +39,18 @@ public class PageStore {
             if (page.getClass() == clazz)
                 return (T) page;
         }
-        T page = PageFactory.initElements(WebDriver, clazz);
+        T page = PageFactory.initElements(driver, clazz);
         pages.add(page);
         return page;
     }
 
     public void destroy() {
         pages.clear();
-        WebDriver.quit();
+        driver.quit();
     }
 
     public WebDriver getDriver() {
-        return WebDriver;
+        return driver;
     }
 }
 

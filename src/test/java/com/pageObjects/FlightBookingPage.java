@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import util.DateUtil;
 import util.WaitFor;
 import java.util.List;
 
@@ -13,7 +14,7 @@ import java.util.List;
 public class FlightBookingPage {
     WebDriver driver;
 
-    WaitFor wait;
+
 
     @FindBy(id = "OneWay")
     private WebElement radioOneWay;
@@ -30,7 +31,7 @@ public class FlightBookingPage {
     @FindBy(id = "ToTag")
     private WebElement ToTag;
 
-    @FindBy(xpath = "//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[5]/td[5]/a")
+    @FindBy(xpath = "//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[6]/td[1]/a")
     private WebElement calendarClick;
 
     @FindBy(xpath = "//*[@id=\"DepartDate\"]")
@@ -50,11 +51,11 @@ public class FlightBookingPage {
 
 
     public void setFromLocation(String location) {
-        wait.waitForElementToBeClickable(radioOneWay);
+        new WaitFor().waitForElementToBeClickable(radioOneWay,driver);
         radioOneWay.click();
         FromTag.clear();
         FromTag.sendKeys(location);
-        WebElement opt = wait.waitForElementToBeClickable(options);
+        WebElement opt = new WaitFor().waitForElementToBeClickable(options, driver);
         List<WebElement> originOptions = opt.findElements(By.tagName("li"));
         originOptions.get(0).click();
     }
@@ -62,20 +63,20 @@ public class FlightBookingPage {
     public void setToLocation(String location){
         ToTag.clear();
         ToTag.sendKeys(location);
-        WebElement opt = wait.waitForElementToBeClickable(options2);
+        WebElement opt = new WaitFor().waitForElementToBeClickable(options2, driver);
         List<WebElement> originOptions = opt.findElements(By.tagName("li"));
         originOptions.get(0).click();
     }
 
     public void destinationOptions() {
         dateOfDepartureBox.click();
-        wait.waitForElementToBeClickable(calendarClick);
+        new WaitFor().waitForElementToBeClickable(calendarClick, driver);
         //Changed to valid date xpath location as the date was pointed to previous invalid date that cannot be selected.
         calendarClick.click();
     }
 
     public WebElement clickSearch(){
-        wait.waitForElementToBeClickable(search);
+        new WaitFor().waitForElementToBeClickable(search, driver);
         search.click();
         return searchSummary;
     }

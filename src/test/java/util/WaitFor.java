@@ -14,19 +14,14 @@ import java.util.concurrent.TimeUnit;
 
 
 public class WaitFor {
-    WebDriver driver;
 
-    public WaitFor(WebDriver driver) {
-        this.driver = driver;
-    }
-
-    public WebElement waitForElementToBeClickable(WebElement element) {
+    public WebElement waitForElementToBeClickable(WebElement element, WebDriver driver) {
         WebElement myDynamicElement = (new WebDriverWait(driver, 10))
                 .until(ExpectedConditions.elementToBeClickable(element));
         return myDynamicElement;
     }
 
-    public WebElement presenceOfTheElement(final By elementIdentifier) {
+    public WebElement presenceOfTheElement(final By elementIdentifier, WebDriver driver) {
         Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
                 .withTimeout(30, TimeUnit.SECONDS)
                 .pollingEvery(1, TimeUnit.SECONDS)
