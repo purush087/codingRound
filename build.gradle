@@ -12,8 +12,6 @@ repositories {
 }
 
 dependencies {
-    // This dependency is exported to consumers, that is to say found on their compile classpath.
-    api 'org.apache.commons:commons-math3:3.6.1'
 
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.5.3'
@@ -25,9 +23,6 @@ dependencies {
 
     // https://mvnrepository.com/artifact/com.codeborne/phantomjsdriver
     compile group: 'com.codeborne', name: 'phantomjsdriver', version: '1.4.3'
-
-    // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
 
 }
 
