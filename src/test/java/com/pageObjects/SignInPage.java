@@ -1,6 +1,7 @@
 package com.pageObjects;
 
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -16,8 +17,9 @@ public class SignInPage {
     WebDriver driver;
     private String error,
             frameId = "modal_window";
+    By modalId = By.id(frameId);
 
-    @FindBy(id = "userAccountLink")
+    @FindBy(linkText = "Your trips")
     private WebElement linkText;
 
     @FindBy(id = "SignIn")
@@ -44,11 +46,13 @@ public class SignInPage {
     }
 
     public String loginFlow(){
+        new WaitFor().presenceOfTheElement(modalId,driver);
         driver.switchTo().frame(frameId);
         signInButton.click();
         error = errors1.getText();
-        driver.switchTo().defaultContent();
-        closeBtn.click();
+        System.out.println(error);
+        /*driver.switchTo().defaultContent();
+        closeBtn.click();*/
         return error;
     }
 }

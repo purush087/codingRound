@@ -665,3 +665,834 @@
 [INFO  - 2017-10-30T13:11:27.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2017-10-30T13:11:28.902Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2017-10-30T13:11:29.882Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-02T09:32:04.104Z] GhostDriver - Main - running on port 18838
+[INFO  - 2017-11-02T09:32:04.634Z] Session [b0042360-bfb0-11e7-ade4-815778c5e820] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:32:04.634Z] Session [b0042360-bfb0-11e7-ade4-815778c5e820] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:32:04.635Z] Session [b0042360-bfb0-11e7-ade4-815778c5e820] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:32:04.635Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b0042360-bfb0-11e7-ade4-815778c5e820
+[ERROR - 2017-11-02T09:32:06.496Z] Session [b0042360-bfb0-11e7-ade4-815778c5e820] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:32:06.496Z] Session [b0042360-bfb0-11e7-ade4-815778c5e820] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:32:10.773Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:32:11.604Z] GhostDriver - Main - running on port 12872
+[INFO  - 2017-11-02T09:32:11.808Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:32:11.808Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:32:11.808Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:32:11.808Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b44acdc0-bfb0-11e7-96e7-fd63600cff0f
+[ERROR - 2017-11-02T09:32:13.485Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:32:13.485Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:32:18.294Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:32:18.294Z] Session [b44acdc0-bfb0-11e7-96e7-fd63600cff0f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:32:18.578Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:32:19.670Z] GhostDriver - Main - running on port 29756
+[INFO  - 2017-11-02T09:32:19.973Z] Session [b928af10-bfb0-11e7-8937-598f1ab7c963] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:32:19.974Z] Session [b928af10-bfb0-11e7-8937-598f1ab7c963] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:32:19.974Z] Session [b928af10-bfb0-11e7-8937-598f1ab7c963] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:32:19.975Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b928af10-bfb0-11e7-8937-598f1ab7c963
+[ERROR - 2017-11-02T09:32:21.905Z] Session [b928af10-bfb0-11e7-8937-598f1ab7c963] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:32:21.905Z] Session [b928af10-bfb0-11e7-8937-598f1ab7c963] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:32:27.856Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615147823
+[ERROR - 2017-11-02T09:32:29.697Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615149664
+[ERROR - 2017-11-02T09:32:31.251Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615151219
+[ERROR - 2017-11-02T09:32:32.839Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615152805
+[ERROR - 2017-11-02T09:32:34.423Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615154392
+[ERROR - 2017-11-02T09:32:35.972Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615155944
+[ERROR - 2017-11-02T09:32:37.531Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615157505
+[ERROR - 2017-11-02T09:32:38.559Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615158533
+[INFO  - 2017-11-02T09:32:40.140Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:34:56.954Z] GhostDriver - Main - running on port 10149
+[INFO  - 2017-11-02T09:34:57.252Z] Session [16e78e00-bfb1-11e7-a5a7-7f0d2b899ea6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:34:57.252Z] Session [16e78e00-bfb1-11e7-a5a7-7f0d2b899ea6] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:34:57.252Z] Session [16e78e00-bfb1-11e7-a5a7-7f0d2b899ea6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:34:57.252Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 16e78e00-bfb1-11e7-a5a7-7f0d2b899ea6
+[ERROR - 2017-11-02T09:34:59.424Z] Session [16e78e00-bfb1-11e7-a5a7-7f0d2b899ea6] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:34:59.424Z] Session [16e78e00-bfb1-11e7-a5a7-7f0d2b899ea6] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:35:05.185Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:35:06.036Z] GhostDriver - Main - running on port 21607
+[INFO  - 2017-11-02T09:35:06.233Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:35:06.233Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:35:06.234Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:35:06.234Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1c417d20-bfb1-11e7-bc69-d1d3f2669802
+[ERROR - 2017-11-02T09:35:07.749Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:35:07.749Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:35:10.035Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:35:10.035Z] Session [1c417d20-bfb1-11e7-bc69-d1d3f2669802] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:35:10.858Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:35:11.892Z] GhostDriver - Main - running on port 1322
+[INFO  - 2017-11-02T09:35:11.920Z] Session [1fa5ddd0-bfb1-11e7-b751-6167e9a42e87] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:35:11.921Z] Session [1fa5ddd0-bfb1-11e7-b751-6167e9a42e87] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:35:11.921Z] Session [1fa5ddd0-bfb1-11e7-b751-6167e9a42e87] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:35:11.921Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1fa5ddd0-bfb1-11e7-b751-6167e9a42e87
+[ERROR - 2017-11-02T09:35:13.615Z] Session [1fa5ddd0-bfb1-11e7-b751-6167e9a42e87] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:35:13.615Z] Session [1fa5ddd0-bfb1-11e7-b751-6167e9a42e87] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:35:18.406Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615318363
+[ERROR - 2017-11-02T09:35:20.244Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615320216
+[ERROR - 2017-11-02T09:35:21.942Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615321896
+[ERROR - 2017-11-02T09:35:23.574Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615323545
+[ERROR - 2017-11-02T09:35:25.146Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615325102
+[ERROR - 2017-11-02T09:35:26.723Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615326689
+[ERROR - 2017-11-02T09:35:28.279Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615328249
+[ERROR - 2017-11-02T09:35:29.360Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615329319
+[INFO  - 2017-11-02T09:35:31.009Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:37:27.319Z] GhostDriver - Main - running on port 27973
+[INFO  - 2017-11-02T09:37:27.650Z] Session [708c77e0-bfb1-11e7-a669-ef40c1f40483] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:37:27.650Z] Session [708c77e0-bfb1-11e7-a669-ef40c1f40483] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:37:27.650Z] Session [708c77e0-bfb1-11e7-a669-ef40c1f40483] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:37:27.650Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 708c77e0-bfb1-11e7-a669-ef40c1f40483
+[ERROR - 2017-11-02T09:37:29.280Z] Session [708c77e0-bfb1-11e7-a669-ef40c1f40483] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:37:29.281Z] Session [708c77e0-bfb1-11e7-a669-ef40c1f40483] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:37:34.831Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:37:35.752Z] GhostDriver - Main - running on port 36871
+[INFO  - 2017-11-02T09:37:35.871Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:37:35.871Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:37:35.871Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:37:35.872Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0
+[ERROR - 2017-11-02T09:37:38.009Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:37:38.009Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:37:43.947Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:37:43.948Z] Session [7572bda0-bfb1-11e7-a0ba-a96d0b81c4c0] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:38:01.209Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:38:02.363Z] GhostDriver - Main - running on port 17351
+[INFO  - 2017-11-02T09:38:02.618Z] Session [85642960-bfb1-11e7-b341-f370e4347a68] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:38:02.618Z] Session [85642960-bfb1-11e7-b341-f370e4347a68] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:38:02.618Z] Session [85642960-bfb1-11e7-b341-f370e4347a68] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:38:02.618Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 85642960-bfb1-11e7-b341-f370e4347a68
+[ERROR - 2017-11-02T09:38:04.494Z] Session [85642960-bfb1-11e7-b341-f370e4347a68] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:38:04.494Z] Session [85642960-bfb1-11e7-b341-f370e4347a68] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:38:10.387Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615490355
+[ERROR - 2017-11-02T09:38:12.233Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615492205
+[ERROR - 2017-11-02T09:38:14.003Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615493965
+[ERROR - 2017-11-02T09:38:15.682Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615495655
+[ERROR - 2017-11-02T09:38:17.245Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615497212
+[ERROR - 2017-11-02T09:38:18.814Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615498770
+[ERROR - 2017-11-02T09:38:20.396Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615500362
+[ERROR - 2017-11-02T09:38:21.561Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615501528
+[INFO  - 2017-11-02T09:38:23.295Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:45:23.485Z] GhostDriver - Main - running on port 1494
+[INFO  - 2017-11-02T09:45:23.866Z] Session [8c654360-bfb2-11e7-a06a-3dd7877bb645] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:45:23.866Z] Session [8c654360-bfb2-11e7-a06a-3dd7877bb645] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:45:23.866Z] Session [8c654360-bfb2-11e7-a06a-3dd7877bb645] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:45:23.866Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8c654360-bfb2-11e7-a06a-3dd7877bb645
+[ERROR - 2017-11-02T09:45:26.099Z] Session [8c654360-bfb2-11e7-a06a-3dd7877bb645] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:45:26.099Z] Session [8c654360-bfb2-11e7-a06a-3dd7877bb645] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:45:31.232Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:45:32.166Z] GhostDriver - Main - running on port 46892
+[INFO  - 2017-11-02T09:45:32.282Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:45:32.282Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:45:32.282Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:45:32.282Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9168fc30-bfb2-11e7-bc78-674aa55ecfb4
+[ERROR - 2017-11-02T09:45:35.046Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:45:35.046Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:45:39.649Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:45:39.649Z] Session [9168fc30-bfb2-11e7-bc78-674aa55ecfb4] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:45:39.927Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:45:40.814Z] GhostDriver - Main - running on port 41625
+[INFO  - 2017-11-02T09:45:41.010Z] Session [969d3ae0-bfb2-11e7-9d83-33ad30c5af54] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:45:41.010Z] Session [969d3ae0-bfb2-11e7-9d83-33ad30c5af54] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:45:41.010Z] Session [969d3ae0-bfb2-11e7-9d83-33ad30c5af54] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:45:41.010Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 969d3ae0-bfb2-11e7-9d83-33ad30c5af54
+[ERROR - 2017-11-02T09:45:42.532Z] Session [969d3ae0-bfb2-11e7-9d83-33ad30c5af54] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:45:42.532Z] Session [969d3ae0-bfb2-11e7-9d83-33ad30c5af54] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:45:48.266Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615948225
+[ERROR - 2017-11-02T09:45:50.109Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615950073
+[ERROR - 2017-11-02T09:45:51.698Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615951669
+[ERROR - 2017-11-02T09:45:53.310Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615953274
+[ERROR - 2017-11-02T09:45:54.927Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615954893
+[ERROR - 2017-11-02T09:45:56.545Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615956496
+[ERROR - 2017-11-02T09:45:58.079Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615958051
+[ERROR - 2017-11-02T09:45:59.189Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509615959165
+[INFO  - 2017-11-02T09:46:00.799Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:46:28.396Z] GhostDriver - Main - running on port 5134
+[INFO  - 2017-11-02T09:46:28.740Z] Session [b30ff1e0-bfb2-11e7-b7d1-977fe7f3635f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:46:28.740Z] Session [b30ff1e0-bfb2-11e7-b7d1-977fe7f3635f] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:46:28.740Z] Session [b30ff1e0-bfb2-11e7-b7d1-977fe7f3635f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:46:28.741Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b30ff1e0-bfb2-11e7-b7d1-977fe7f3635f
+[ERROR - 2017-11-02T09:46:30.874Z] Session [b30ff1e0-bfb2-11e7-b7d1-977fe7f3635f] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:46:30.874Z] Session [b30ff1e0-bfb2-11e7-b7d1-977fe7f3635f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:46:35.980Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:46:36.812Z] GhostDriver - Main - running on port 12238
+[INFO  - 2017-11-02T09:46:37.024Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:46:37.024Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:46:37.024Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:46:37.024Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b80022b0-bfb2-11e7-85d8-35c6da345c70
+[ERROR - 2017-11-02T09:46:38.982Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:46:38.982Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:46:52.233Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:46:52.233Z] Session [b80022b0-bfb2-11e7-85d8-35c6da345c70] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:46:52.541Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:46:53.391Z] GhostDriver - Main - running on port 43982
+[INFO  - 2017-11-02T09:46:53.622Z] Session [c1e4a300-bfb2-11e7-95a8-b1ab1428178d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:46:53.622Z] Session [c1e4a300-bfb2-11e7-95a8-b1ab1428178d] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:46:53.622Z] Session [c1e4a300-bfb2-11e7-95a8-b1ab1428178d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:46:53.622Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c1e4a300-bfb2-11e7-95a8-b1ab1428178d
+[ERROR - 2017-11-02T09:46:55.239Z] Session [c1e4a300-bfb2-11e7-95a8-b1ab1428178d] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:46:55.239Z] Session [c1e4a300-bfb2-11e7-95a8-b1ab1428178d] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:46:59.812Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616019773
+[ERROR - 2017-11-02T09:47:01.800Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616021770
+[ERROR - 2017-11-02T09:47:03.385Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616023350
+[ERROR - 2017-11-02T09:47:05.025Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616024995
+[ERROR - 2017-11-02T09:47:06.669Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616026631
+[ERROR - 2017-11-02T09:47:08.235Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616028204
+[ERROR - 2017-11-02T09:47:09.809Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616029774
+[ERROR - 2017-11-02T09:47:10.842Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616030811
+[INFO  - 2017-11-02T09:47:12.524Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:49:07.987Z] GhostDriver - Main - running on port 34931
+[INFO  - 2017-11-02T09:49:08.293Z] Session [122a1b10-bfb3-11e7-b44d-177a1c365919] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:49:08.293Z] Session [122a1b10-bfb3-11e7-b44d-177a1c365919] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:49:08.293Z] Session [122a1b10-bfb3-11e7-b44d-177a1c365919] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:49:08.293Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 122a1b10-bfb3-11e7-b44d-177a1c365919
+[ERROR - 2017-11-02T09:49:10.521Z] Session [122a1b10-bfb3-11e7-b44d-177a1c365919] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:49:10.521Z] Session [122a1b10-bfb3-11e7-b44d-177a1c365919] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:49:15.173Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:49:16.057Z] GhostDriver - Main - running on port 12999
+[INFO  - 2017-11-02T09:49:16.210Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:49:16.211Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:49:16.211Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:49:16.211Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 16e1afb0-bfb3-11e7-919e-4becd0248adf
+[ERROR - 2017-11-02T09:49:18.228Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:49:18.229Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:49:22.979Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:49:22.980Z] Session [16e1afb0-bfb3-11e7-919e-4becd0248adf] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:49:23.279Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:49:24.140Z] GhostDriver - Main - running on port 32053
+[INFO  - 2017-11-02T09:49:24.366Z] Session [1bbea6a0-bfb3-11e7-9752-df10aa7b1dae] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:49:24.366Z] Session [1bbea6a0-bfb3-11e7-9752-df10aa7b1dae] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:49:24.367Z] Session [1bbea6a0-bfb3-11e7-9752-df10aa7b1dae] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:49:24.367Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1bbea6a0-bfb3-11e7-9752-df10aa7b1dae
+[ERROR - 2017-11-02T09:49:26.589Z] Session [1bbea6a0-bfb3-11e7-9752-df10aa7b1dae] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:49:26.589Z] Session [1bbea6a0-bfb3-11e7-9752-df10aa7b1dae] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:49:32.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616172519
+[ERROR - 2017-11-02T09:49:34.482Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616174452
+[ERROR - 2017-11-02T09:49:36.065Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616176030
+[ERROR - 2017-11-02T09:49:37.673Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616177643
+[ERROR - 2017-11-02T09:49:39.365Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616179336
+[ERROR - 2017-11-02T09:49:40.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616180941
+[ERROR - 2017-11-02T09:49:42.549Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616182504
+[ERROR - 2017-11-02T09:49:43.671Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616183643
+[INFO  - 2017-11-02T09:49:45.324Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:50:26.371Z] GhostDriver - Main - running on port 10856
+[INFO  - 2017-11-02T09:50:26.695Z] Session [40e54d30-bfb3-11e7-874d-cd17926c4178] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:50:26.695Z] Session [40e54d30-bfb3-11e7-874d-cd17926c4178] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:50:26.695Z] Session [40e54d30-bfb3-11e7-874d-cd17926c4178] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:50:26.695Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 40e54d30-bfb3-11e7-874d-cd17926c4178
+[ERROR - 2017-11-02T09:50:28.447Z] Session [40e54d30-bfb3-11e7-874d-cd17926c4178] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:50:28.447Z] Session [40e54d30-bfb3-11e7-874d-cd17926c4178] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:50:33.286Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:50:34.097Z] GhostDriver - Main - running on port 19100
+[INFO  - 2017-11-02T09:50:34.337Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:50:34.337Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:50:34.338Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:50:34.338Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 457312b0-bfb3-11e7-b9f9-c12656c55d74
+[ERROR - 2017-11-02T09:50:35.758Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:50:35.758Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:50:46.369Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:50:46.369Z] Session [457312b0-bfb3-11e7-b9f9-c12656c55d74] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:50:47.964Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:50:48.820Z] GhostDriver - Main - running on port 41299
+[INFO  - 2017-11-02T09:50:49.050Z] Session [4e384050-bfb3-11e7-bbb9-9bc731d9c3cb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:50:49.050Z] Session [4e384050-bfb3-11e7-bbb9-9bc731d9c3cb] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:50:49.050Z] Session [4e384050-bfb3-11e7-bbb9-9bc731d9c3cb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:50:49.050Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4e384050-bfb3-11e7-bbb9-9bc731d9c3cb
+[ERROR - 2017-11-02T09:50:50.643Z] Session [4e384050-bfb3-11e7-bbb9-9bc731d9c3cb] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:50:50.643Z] Session [4e384050-bfb3-11e7-bbb9-9bc731d9c3cb] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:50:55.347Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616255302
+[ERROR - 2017-11-02T09:50:57.173Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616257144
+[ERROR - 2017-11-02T09:50:58.782Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616258750
+[ERROR - 2017-11-02T09:51:00.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616260324
+[ERROR - 2017-11-02T09:51:01.952Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616261914
+[ERROR - 2017-11-02T09:51:03.594Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616263555
+[ERROR - 2017-11-02T09:51:05.336Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616265301
+[ERROR - 2017-11-02T09:51:06.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616266387
+[INFO  - 2017-11-02T09:51:08.048Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:51:41.536Z] GhostDriver - Main - running on port 19711
+[INFO  - 2017-11-02T09:51:41.887Z] Session [6db6b0b0-bfb3-11e7-a67e-e5fc2e12d750] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:51:41.887Z] Session [6db6b0b0-bfb3-11e7-a67e-e5fc2e12d750] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:51:41.887Z] Session [6db6b0b0-bfb3-11e7-a67e-e5fc2e12d750] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:51:41.887Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6db6b0b0-bfb3-11e7-a67e-e5fc2e12d750
+[ERROR - 2017-11-02T09:51:44.216Z] Session [6db6b0b0-bfb3-11e7-a67e-e5fc2e12d750] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:51:44.216Z] Session [6db6b0b0-bfb3-11e7-a67e-e5fc2e12d750] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:51:47.587Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:51:48.425Z] GhostDriver - Main - running on port 31618
+[INFO  - 2017-11-02T09:51:48.634Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:51:48.635Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:51:48.635Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:51:48.635Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 71bc0c50-bfb3-11e7-bcbd-831e25562033
+[ERROR - 2017-11-02T09:51:51.027Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:51:51.027Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:51:56.262Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:51:56.262Z] Session [71bc0c50-bfb3-11e7-bcbd-831e25562033] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:51:56.535Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:51:57.420Z] GhostDriver - Main - running on port 43065
+[INFO  - 2017-11-02T09:51:57.623Z] Session [7717d030-bfb3-11e7-8386-17c397787cfc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:51:57.623Z] Session [7717d030-bfb3-11e7-8386-17c397787cfc] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:51:57.623Z] Session [7717d030-bfb3-11e7-8386-17c397787cfc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:51:57.623Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7717d030-bfb3-11e7-8386-17c397787cfc
+[ERROR - 2017-11-02T09:51:59.140Z] Session [7717d030-bfb3-11e7-8386-17c397787cfc] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:51:59.141Z] Session [7717d030-bfb3-11e7-8386-17c397787cfc] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:52:06.632Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616326593
+[ERROR - 2017-11-02T09:52:08.461Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616328428
+[ERROR - 2017-11-02T09:52:10.124Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616330086
+[ERROR - 2017-11-02T09:52:11.710Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616331682
+[ERROR - 2017-11-02T09:52:13.292Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616333252
+[ERROR - 2017-11-02T09:52:14.873Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616334827
+[ERROR - 2017-11-02T09:52:16.453Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616336421
+[ERROR - 2017-11-02T09:52:17.536Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616337509
+[INFO  - 2017-11-02T09:52:19.218Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:54:00.771Z] GhostDriver - Main - running on port 48887
+[INFO  - 2017-11-02T09:54:01.123Z] Session [c0b46af0-bfb3-11e7-881f-958de0573d55] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:54:01.123Z] Session [c0b46af0-bfb3-11e7-881f-958de0573d55] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:54:01.123Z] Session [c0b46af0-bfb3-11e7-881f-958de0573d55] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:54:01.123Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c0b46af0-bfb3-11e7-881f-958de0573d55
+[ERROR - 2017-11-02T09:54:03.199Z] Session [c0b46af0-bfb3-11e7-881f-958de0573d55] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:54:03.200Z] Session [c0b46af0-bfb3-11e7-881f-958de0573d55] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:54:09.474Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:54:10.420Z] GhostDriver - Main - running on port 46241
+[INFO  - 2017-11-02T09:54:10.527Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:54:10.527Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:54:10.527Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:54:10.527Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447
+[ERROR - 2017-11-02T09:54:12.449Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:54:12.450Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:54:16.099Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:54:16.100Z] Session [c64f5ab0-bfb3-11e7-b9e6-1bbc9e8fa447] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:54:16.370Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:54:17.217Z] GhostDriver - Main - running on port 24851
+[INFO  - 2017-11-02T09:54:17.454Z] Session [ca7054a0-bfb3-11e7-bee4-9593070076ca] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:54:17.454Z] Session [ca7054a0-bfb3-11e7-bee4-9593070076ca] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:54:17.455Z] Session [ca7054a0-bfb3-11e7-bee4-9593070076ca] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:54:17.455Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ca7054a0-bfb3-11e7-bee4-9593070076ca
+[ERROR - 2017-11-02T09:54:19.092Z] Session [ca7054a0-bfb3-11e7-bee4-9593070076ca] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:54:19.092Z] Session [ca7054a0-bfb3-11e7-bee4-9593070076ca] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:54:23.289Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616463247
+[ERROR - 2017-11-02T09:54:25.075Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616465039
+[ERROR - 2017-11-02T09:54:26.634Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616466595
+[ERROR - 2017-11-02T09:54:28.136Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616468105
+[ERROR - 2017-11-02T09:54:29.666Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616469633
+[ERROR - 2017-11-02T09:54:31.172Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616471140
+[ERROR - 2017-11-02T09:54:32.824Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616472793
+[ERROR - 2017-11-02T09:54:33.972Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616473946
+[INFO  - 2017-11-02T09:54:35.561Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:57:29.633Z] GhostDriver - Main - running on port 46718
+[INFO  - 2017-11-02T09:57:29.906Z] Session [3d2653f0-bfb4-11e7-ae70-fd890b13c519] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:57:29.906Z] Session [3d2653f0-bfb4-11e7-ae70-fd890b13c519] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:57:29.906Z] Session [3d2653f0-bfb4-11e7-ae70-fd890b13c519] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:57:29.906Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3d2653f0-bfb4-11e7-ae70-fd890b13c519
+[ERROR - 2017-11-02T09:57:32.259Z] Session [3d2653f0-bfb4-11e7-ae70-fd890b13c519] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:57:32.259Z] Session [3d2653f0-bfb4-11e7-ae70-fd890b13c519] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:57:36.627Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616656597
+[ERROR - 2017-11-02T09:57:38.373Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616658334
+[ERROR - 2017-11-02T09:57:39.882Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616659843
+[ERROR - 2017-11-02T09:57:41.313Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616661286
+[ERROR - 2017-11-02T09:57:42.765Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616662738
+[ERROR - 2017-11-02T09:57:44.236Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616664209
+[ERROR - 2017-11-02T09:57:45.696Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616665671
+[ERROR - 2017-11-02T09:57:46.679Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616666628
+[INFO  - 2017-11-02T09:57:48.084Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:57:48.941Z] GhostDriver - Main - running on port 35118
+[INFO  - 2017-11-02T09:57:49.127Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:57:49.127Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:57:49.127Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:57:49.127Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 489a74f0-bfb4-11e7-b13c-35743cb7d1b6
+[ERROR - 2017-11-02T09:57:51.024Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:57:51.024Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:57:53.277Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:57:53.277Z] Session [489a74f0-bfb4-11e7-b13c-35743cb7d1b6] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T09:57:55.177Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T09:57:56.181Z] GhostDriver - Main - running on port 24575
+[INFO  - 2017-11-02T09:57:56.266Z] Session [4cdc1640-bfb4-11e7-b199-3d40be8e9231] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T09:57:56.266Z] Session [4cdc1640-bfb4-11e7-b199-3d40be8e9231] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T09:57:56.266Z] Session [4cdc1640-bfb4-11e7-b199-3d40be8e9231] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T09:57:56.267Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4cdc1640-bfb4-11e7-b199-3d40be8e9231
+[ERROR - 2017-11-02T09:57:58.858Z] Session [4cdc1640-bfb4-11e7-b199-3d40be8e9231] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T09:57:58.858Z] Session [4cdc1640-bfb4-11e7-b199-3d40be8e9231] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T09:58:01.605Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616681578
+[ERROR - 2017-11-02T09:58:03.493Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616683461
+[ERROR - 2017-11-02T09:58:05.113Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616685080
+[ERROR - 2017-11-02T09:58:06.714Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616686684
+[ERROR - 2017-11-02T09:58:08.282Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616688248
+[ERROR - 2017-11-02T09:58:09.849Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616689819
+[ERROR - 2017-11-02T09:58:11.428Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616691398
+[ERROR - 2017-11-02T09:58:12.515Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616692481
+[INFO  - 2017-11-02T09:58:14.119Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:00:14.635Z] GhostDriver - Main - running on port 10081
+[INFO  - 2017-11-02T10:00:15.039Z] Session [9f9378b0-bfb4-11e7-97d2-abb741c17099] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:00:15.039Z] Session [9f9378b0-bfb4-11e7-97d2-abb741c17099] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:00:15.039Z] Session [9f9378b0-bfb4-11e7-97d2-abb741c17099] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:00:15.039Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9f9378b0-bfb4-11e7-97d2-abb741c17099
+[ERROR - 2017-11-02T10:00:16.984Z] Session [9f9378b0-bfb4-11e7-97d2-abb741c17099] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:00:16.984Z] Session [9f9378b0-bfb4-11e7-97d2-abb741c17099] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:00:18.513Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616818482
+[ERROR - 2017-11-02T10:00:20.392Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616820367
+[ERROR - 2017-11-02T10:00:21.902Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616821868
+[ERROR - 2017-11-02T10:00:23.364Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616823329
+[ERROR - 2017-11-02T10:00:24.861Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616824833
+[ERROR - 2017-11-02T10:00:26.334Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616826308
+[ERROR - 2017-11-02T10:00:27.825Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616827798
+[ERROR - 2017-11-02T10:00:28.772Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616828738
+[INFO  - 2017-11-02T10:00:30.191Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:00:31.114Z] GhostDriver - Main - running on port 48033
+[INFO  - 2017-11-02T10:00:31.245Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:00:31.245Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:00:31.245Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:00:31.245Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a93b8c40-bfb4-11e7-8482-390c26645952
+[ERROR - 2017-11-02T10:00:33.487Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:00:33.487Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:00:38.441Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:00:38.441Z] Session [a93b8c40-bfb4-11e7-8482-390c26645952] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:00:38.732Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:00:39.619Z] GhostDriver - Main - running on port 39687
+[INFO  - 2017-11-02T10:00:39.815Z] Session [ae578800-bfb4-11e7-9436-9554b87a0d61] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:00:39.815Z] Session [ae578800-bfb4-11e7-9436-9554b87a0d61] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:00:39.815Z] Session [ae578800-bfb4-11e7-9436-9554b87a0d61] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:00:39.815Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ae578800-bfb4-11e7-9436-9554b87a0d61
+[ERROR - 2017-11-02T10:00:42.107Z] Session [ae578800-bfb4-11e7-9436-9554b87a0d61] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:00:42.107Z] Session [ae578800-bfb4-11e7-9436-9554b87a0d61] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:00:47.205Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616847159
+[ERROR - 2017-11-02T10:00:49.139Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616849109
+[ERROR - 2017-11-02T10:00:50.815Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616850768
+[ERROR - 2017-11-02T10:00:52.524Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616852492
+[ERROR - 2017-11-02T10:00:54.235Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616854204
+[ERROR - 2017-11-02T10:00:55.946Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616855910
+[ERROR - 2017-11-02T10:00:57.211Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616857181
+[INFO  - 2017-11-02T10:00:58.935Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:02:18.872Z] GhostDriver - Main - running on port 1661
+[INFO  - 2017-11-02T10:02:19.158Z] Session [e98e8720-bfb4-11e7-8d01-5bfa6d0ecf6a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:02:19.158Z] Session [e98e8720-bfb4-11e7-8d01-5bfa6d0ecf6a] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:02:19.158Z] Session [e98e8720-bfb4-11e7-8d01-5bfa6d0ecf6a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:02:19.158Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e98e8720-bfb4-11e7-8d01-5bfa6d0ecf6a
+[ERROR - 2017-11-02T10:02:21.225Z] Session [e98e8720-bfb4-11e7-8d01-5bfa6d0ecf6a] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:02:21.225Z] Session [e98e8720-bfb4-11e7-8d01-5bfa6d0ecf6a] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:02:23.088Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616943041
+[ERROR - 2017-11-02T10:02:24.855Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616944815
+[ERROR - 2017-11-02T10:02:26.304Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616946266
+[ERROR - 2017-11-02T10:02:27.831Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616947798
+[ERROR - 2017-11-02T10:02:29.271Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616949250
+[ERROR - 2017-11-02T10:02:30.728Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616950706
+[ERROR - 2017-11-02T10:02:32.169Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616952139
+[ERROR - 2017-11-02T10:02:33.087Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616953058
+[INFO  - 2017-11-02T10:02:34.435Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:02:35.268Z] GhostDriver - Main - running on port 13567
+[INFO  - 2017-11-02T10:02:35.486Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:02:35.486Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:02:35.486Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:02:35.486Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f3491140-bfb4-11e7-b26e-67940f5dfc9e
+[ERROR - 2017-11-02T10:02:37.347Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:02:37.348Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:02:40.316Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:02:40.316Z] Session [f3491140-bfb4-11e7-b26e-67940f5dfc9e] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:02:40.588Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:02:41.861Z] GhostDriver - Main - running on port 15195
+[INFO  - 2017-11-02T10:02:42.017Z] Session [f72e3ab0-bfb4-11e7-8969-c54eab401687] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:02:42.017Z] Session [f72e3ab0-bfb4-11e7-8969-c54eab401687] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:02:42.017Z] Session [f72e3ab0-bfb4-11e7-8969-c54eab401687] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:02:42.017Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f72e3ab0-bfb4-11e7-8969-c54eab401687
+[ERROR - 2017-11-02T10:02:44.136Z] Session [f72e3ab0-bfb4-11e7-8969-c54eab401687] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:02:44.136Z] Session [f72e3ab0-bfb4-11e7-8969-c54eab401687] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:02:50.488Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616970454
+[ERROR - 2017-11-02T10:02:52.505Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616972470
+[ERROR - 2017-11-02T10:02:54.164Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616974139
+[ERROR - 2017-11-02T10:02:55.736Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616975705
+[ERROR - 2017-11-02T10:02:57.362Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616977326
+[ERROR - 2017-11-02T10:02:59.023Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616978973
+[ERROR - 2017-11-02T10:03:00.601Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616980570
+[ERROR - 2017-11-02T10:03:02.011Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616981976
+[INFO  - 2017-11-02T10:03:03.774Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:03:12.613Z] GhostDriver - Main - running on port 19987
+[INFO  - 2017-11-02T10:03:12.901Z] Session [0996e800-bfb5-11e7-9801-f766530fb6b9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:03:12.901Z] Session [0996e800-bfb5-11e7-9801-f766530fb6b9] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:03:12.901Z] Session [0996e800-bfb5-11e7-9801-f766530fb6b9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:03:12.901Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0996e800-bfb5-11e7-9801-f766530fb6b9
+[ERROR - 2017-11-02T10:03:15.683Z] Session [0996e800-bfb5-11e7-9801-f766530fb6b9] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:03:15.683Z] Session [0996e800-bfb5-11e7-9801-f766530fb6b9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:03:19.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509616999524
+[ERROR - 2017-11-02T10:03:21.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617001212
+[ERROR - 2017-11-02T10:03:22.778Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617002735
+[ERROR - 2017-11-02T10:03:24.194Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617004169
+[ERROR - 2017-11-02T10:03:25.639Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617005607
+[ERROR - 2017-11-02T10:03:27.071Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617007043
+[ERROR - 2017-11-02T10:03:28.493Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617008465
+[ERROR - 2017-11-02T10:03:29.900Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617009865
+[ERROR - 2017-11-02T10:03:30.865Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617010831
+[INFO  - 2017-11-02T10:03:32.226Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:03:33.028Z] GhostDriver - Main - running on port 18422
+[INFO  - 2017-11-02T10:03:33.270Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:03:33.270Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:03:33.270Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:03:33.270Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 15bb1f20-bfb5-11e7-83a1-f536b73dae46
+[ERROR - 2017-11-02T10:03:35.875Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:03:35.876Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:03:37.713Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:03:37.713Z] Session [15bb1f20-bfb5-11e7-83a1-f536b73dae46] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:03:39.760Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:03:40.642Z] GhostDriver - Main - running on port 26357
+[INFO  - 2017-11-02T10:03:40.841Z] Session [1a3e5d50-bfb5-11e7-91cc-c5042062a659] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:03:40.842Z] Session [1a3e5d50-bfb5-11e7-91cc-c5042062a659] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:03:40.842Z] Session [1a3e5d50-bfb5-11e7-91cc-c5042062a659] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:03:40.842Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1a3e5d50-bfb5-11e7-91cc-c5042062a659
+[ERROR - 2017-11-02T10:03:43.357Z] Session [1a3e5d50-bfb5-11e7-91cc-c5042062a659] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:03:43.357Z] Session [1a3e5d50-bfb5-11e7-91cc-c5042062a659] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:03:46.815Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617026776
+[ERROR - 2017-11-02T10:03:49.014Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617028972
+[ERROR - 2017-11-02T10:03:50.775Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617030741
+[ERROR - 2017-11-02T10:03:52.434Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617032398
+[ERROR - 2017-11-02T10:03:54.144Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617034091
+[ERROR - 2017-11-02T10:03:55.962Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617035907
+[ERROR - 2017-11-02T10:03:57.147Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617037114
+[INFO  - 2017-11-02T10:03:58.878Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:04:24.182Z] GhostDriver - Main - running on port 30125
+[INFO  - 2017-11-02T10:04:24.487Z] Session [34425e40-bfb5-11e7-920a-63feb2a2bbd3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:04:24.487Z] Session [34425e40-bfb5-11e7-920a-63feb2a2bbd3] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:04:24.487Z] Session [34425e40-bfb5-11e7-920a-63feb2a2bbd3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:04:24.487Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 34425e40-bfb5-11e7-920a-63feb2a2bbd3
+[ERROR - 2017-11-02T10:04:27.047Z] Session [34425e40-bfb5-11e7-920a-63feb2a2bbd3] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:04:27.047Z] Session [34425e40-bfb5-11e7-920a-63feb2a2bbd3] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:04:31.614Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617071580
+[ERROR - 2017-11-02T10:04:33.496Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617073459
+[ERROR - 2017-11-02T10:04:35.094Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617075052
+[ERROR - 2017-11-02T10:04:36.642Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617076615
+[ERROR - 2017-11-02T10:04:38.190Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617078161
+[ERROR - 2017-11-02T10:04:39.739Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617079711
+[ERROR - 2017-11-02T10:04:41.227Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617081201
+[ERROR - 2017-11-02T10:04:42.283Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617082249
+[INFO  - 2017-11-02T10:04:43.910Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:04:44.771Z] GhostDriver - Main - running on port 24796
+[INFO  - 2017-11-02T10:04:44.965Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:04:44.965Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:04:44.965Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:04:44.965Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 407673e0-bfb5-11e7-8303-8b20f4f7d46b
+[ERROR - 2017-11-02T10:04:46.956Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:04:46.958Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:04:49.120Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:04:49.120Z] Session [407673e0-bfb5-11e7-8303-8b20f4f7d46b] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:04:49.809Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:04:50.699Z] GhostDriver - Main - running on port 33531
+[INFO  - 2017-11-02T10:04:50.900Z] Session [44008500-bfb5-11e7-9199-9181275ef96c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:04:50.900Z] Session [44008500-bfb5-11e7-9199-9181275ef96c] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:04:50.900Z] Session [44008500-bfb5-11e7-9199-9181275ef96c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:04:50.900Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 44008500-bfb5-11e7-9199-9181275ef96c
+[ERROR - 2017-11-02T10:04:52.723Z] Session [44008500-bfb5-11e7-9199-9181275ef96c] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:04:52.723Z] Session [44008500-bfb5-11e7-9199-9181275ef96c] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:04:57.186Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617097147
+[ERROR - 2017-11-02T10:04:59.061Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617099025
+[ERROR - 2017-11-02T10:05:00.641Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617100612
+[ERROR - 2017-11-02T10:05:02.340Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617102318
+[ERROR - 2017-11-02T10:05:04.017Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617103975
+[ERROR - 2017-11-02T10:05:05.630Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617105587
+[ERROR - 2017-11-02T10:05:07.203Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617107163
+[ERROR - 2017-11-02T10:05:08.270Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617108236
+[INFO  - 2017-11-02T10:05:09.993Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:07:17.343Z] GhostDriver - Main - running on port 16517
+[INFO  - 2017-11-02T10:07:17.687Z] Session [9b7e9740-bfb5-11e7-8a52-a1b9482a2443] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:07:17.687Z] Session [9b7e9740-bfb5-11e7-8a52-a1b9482a2443] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:07:17.687Z] Session [9b7e9740-bfb5-11e7-8a52-a1b9482a2443] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:07:17.687Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9b7e9740-bfb5-11e7-8a52-a1b9482a2443
+[ERROR - 2017-11-02T10:07:19.603Z] Session [9b7e9740-bfb5-11e7-8a52-a1b9482a2443] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:07:19.603Z] Session [9b7e9740-bfb5-11e7-8a52-a1b9482a2443] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:07:22.478Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617242441
+[ERROR - 2017-11-02T10:07:24.361Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617244323
+[ERROR - 2017-11-02T10:07:25.923Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617245879
+[ERROR - 2017-11-02T10:07:27.446Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617247422
+[ERROR - 2017-11-02T10:07:28.948Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617248918
+[ERROR - 2017-11-02T10:07:30.485Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617250456
+[ERROR - 2017-11-02T10:07:31.977Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617251950
+[ERROR - 2017-11-02T10:07:32.973Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617252934
+[INFO  - 2017-11-02T10:07:34.496Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:07:35.390Z] GhostDriver - Main - running on port 44068
+[INFO  - 2017-11-02T10:07:35.533Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:07:35.533Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:07:35.533Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:07:35.533Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a6218590-bfb5-11e7-8306-e3e87754f774
+[ERROR - 2017-11-02T10:07:37.784Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:07:37.785Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:07:40.767Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:07:40.767Z] Session [a6218590-bfb5-11e7-8306-e3e87754f774] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:07:41.088Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:07:41.983Z] GhostDriver - Main - running on port 41838
+[INFO  - 2017-11-02T10:07:42.190Z] Session [aa18fe80-bfb5-11e7-92fb-e72b152341fd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:07:42.190Z] Session [aa18fe80-bfb5-11e7-92fb-e72b152341fd] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:07:42.190Z] Session [aa18fe80-bfb5-11e7-92fb-e72b152341fd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:07:42.190Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aa18fe80-bfb5-11e7-92fb-e72b152341fd
+[ERROR - 2017-11-02T10:07:43.758Z] Session [aa18fe80-bfb5-11e7-92fb-e72b152341fd] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:07:43.758Z] Session [aa18fe80-bfb5-11e7-92fb-e72b152341fd] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:07:46.784Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617266749
+[ERROR - 2017-11-02T10:07:48.537Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617268506
+[ERROR - 2017-11-02T10:07:50.036Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617269997
+[ERROR - 2017-11-02T10:07:51.565Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617271538
+[ERROR - 2017-11-02T10:07:53.122Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617273088
+[ERROR - 2017-11-02T10:07:54.645Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617274618
+[ERROR - 2017-11-02T10:07:56.146Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617276116
+[ERROR - 2017-11-02T10:07:57.278Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617277232
+[INFO  - 2017-11-02T10:07:58.885Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:09:46.948Z] GhostDriver - Main - running on port 49098
+[INFO  - 2017-11-02T10:09:47.314Z] Session [f4addbf0-bfb5-11e7-81f2-bde806da25ba] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:09:47.315Z] Session [f4addbf0-bfb5-11e7-81f2-bde806da25ba] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:09:47.315Z] Session [f4addbf0-bfb5-11e7-81f2-bde806da25ba] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:09:47.315Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f4addbf0-bfb5-11e7-81f2-bde806da25ba
+[ERROR - 2017-11-02T10:09:50.250Z] Session [f4addbf0-bfb5-11e7-81f2-bde806da25ba] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:09:50.250Z] Session [f4addbf0-bfb5-11e7-81f2-bde806da25ba] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:09:57.433Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:09:59.267Z] GhostDriver - Main - running on port 4057
+[INFO  - 2017-11-02T10:09:59.494Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:09:59.494Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:09:59.494Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:09:59.494Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fbf01310-bfb5-11e7-916b-c59c9dde7e68
+[ERROR - 2017-11-02T10:10:01.212Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:10:01.212Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:10:05.082Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:10:05.082Z] Session [fbf01310-bfb5-11e7-916b-c59c9dde7e68] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:10:05.381Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:10:06.410Z] GhostDriver - Main - running on port 8645
+[INFO  - 2017-11-02T10:10:06.434Z] Session [00132fe0-bfb6-11e7-a2b3-d1ed00c252ce] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:10:06.434Z] Session [00132fe0-bfb6-11e7-a2b3-d1ed00c252ce] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:10:06.434Z] Session [00132fe0-bfb6-11e7-a2b3-d1ed00c252ce] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:10:06.434Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 00132fe0-bfb6-11e7-a2b3-d1ed00c252ce
+[ERROR - 2017-11-02T10:10:08.629Z] Session [00132fe0-bfb6-11e7-a2b3-d1ed00c252ce] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:10:08.630Z] Session [00132fe0-bfb6-11e7-a2b3-d1ed00c252ce] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:10:12.486Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617412451
+[ERROR - 2017-11-02T10:10:14.279Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617414243
+[ERROR - 2017-11-02T10:10:15.850Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617415821
+[ERROR - 2017-11-02T10:10:17.410Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617417383
+[ERROR - 2017-11-02T10:10:19.040Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617419006
+[ERROR - 2017-11-02T10:10:20.699Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617420657
+[ERROR - 2017-11-02T10:10:22.307Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617422264
+[ERROR - 2017-11-02T10:10:23.417Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617423380
+[INFO  - 2017-11-02T10:10:25.268Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:11:55.867Z] GhostDriver - Main - running on port 6593
+[INFO  - 2017-11-02T10:11:56.218Z] Session [4182be50-bfb6-11e7-a3b8-fb8b01d18945] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:11:56.219Z] Session [4182be50-bfb6-11e7-a3b8-fb8b01d18945] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:11:56.219Z] Session [4182be50-bfb6-11e7-a3b8-fb8b01d18945] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:11:56.219Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4182be50-bfb6-11e7-a3b8-fb8b01d18945
+[ERROR - 2017-11-02T10:11:57.891Z] Session [4182be50-bfb6-11e7-a3b8-fb8b01d18945] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:11:57.892Z] Session [4182be50-bfb6-11e7-a3b8-fb8b01d18945] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:12:11.814Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:12:12.688Z] GhostDriver - Main - running on port 35134
+[INFO  - 2017-11-02T10:12:12.870Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:12:12.870Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:12:12.870Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:12:12.871Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4b6fa310-bfb6-11e7-8b4a-099ce434aaa3
+[ERROR - 2017-11-02T10:12:14.881Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:14.881Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:12:16.874Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:16.874Z] Session [4b6fa310-bfb6-11e7-8b4a-099ce434aaa3] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:12:17.362Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:12:18.260Z] GhostDriver - Main - running on port 22773
+[INFO  - 2017-11-02T10:12:18.459Z] Session [4ec42540-bfb6-11e7-b0d3-bb0cb038deec] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:12:18.460Z] Session [4ec42540-bfb6-11e7-b0d3-bb0cb038deec] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:12:18.460Z] Session [4ec42540-bfb6-11e7-b0d3-bb0cb038deec] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:12:18.460Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4ec42540-bfb6-11e7-b0d3-bb0cb038deec
+[ERROR - 2017-11-02T10:12:20.370Z] Session [4ec42540-bfb6-11e7-b0d3-bb0cb038deec] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:20.370Z] Session [4ec42540-bfb6-11e7-b0d3-bb0cb038deec] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:12:24.046Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617543999
+[ERROR - 2017-11-02T10:12:27.558Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617547534
+[INFO  - 2017-11-02T10:12:27.799Z] GhostDriver - Main - running on port 37644
+[INFO  - 2017-11-02T10:12:28.108Z] Session [5484ec80-bfb6-11e7-87b2-7d48f49546e9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:12:28.108Z] Session [5484ec80-bfb6-11e7-87b2-7d48f49546e9] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:12:28.108Z] Session [5484ec80-bfb6-11e7-87b2-7d48f49546e9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:12:28.109Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5484ec80-bfb6-11e7-87b2-7d48f49546e9
+[ERROR - 2017-11-02T10:12:29.242Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617549208
+[ERROR - 2017-11-02T10:12:30.838Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617550809
+[ERROR - 2017-11-02T10:12:30.866Z] Session [5484ec80-bfb6-11e7-87b2-7d48f49546e9] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:30.866Z] Session [5484ec80-bfb6-11e7-87b2-7d48f49546e9] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:12:32.493Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617552469
+[ERROR - 2017-11-02T10:12:34.121Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617554067
+[ERROR - 2017-11-02T10:12:35.220Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617555184
+[ERROR - 2017-11-02T10:12:36.034Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617556009
+[INFO  - 2017-11-02T10:12:37.065Z] ShutdownReqHand - _handle - About to shutdown
+[ERROR - 2017-11-02T10:12:38.009Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617557973
+[ERROR - 2017-11-02T10:12:39.813Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617559782
+[ERROR - 2017-11-02T10:12:41.373Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617561345
+[ERROR - 2017-11-02T10:12:42.996Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617562963
+[ERROR - 2017-11-02T10:12:44.562Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617564535
+[ERROR - 2017-11-02T10:12:46.131Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617566087
+[ERROR - 2017-11-02T10:12:47.173Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617567143
+[INFO  - 2017-11-02T10:12:48.795Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:12:49.617Z] GhostDriver - Main - running on port 38509
+[INFO  - 2017-11-02T10:12:49.853Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:12:49.853Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:12:49.854Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:12:49.854Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 617acb80-bfb6-11e7-8e90-9b4ecd952c3d
+[ERROR - 2017-11-02T10:12:51.895Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:51.895Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:12:55.769Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:55.770Z] Session [617acb80-bfb6-11e7-8e90-9b4ecd952c3d] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:12:56.054Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:12:56.902Z] GhostDriver - Main - running on port 6316
+[INFO  - 2017-11-02T10:12:57.151Z] Session [65d2db00-bfb6-11e7-9f57-272ad7aa9a0e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:12:57.152Z] Session [65d2db00-bfb6-11e7-9f57-272ad7aa9a0e] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:12:57.152Z] Session [65d2db00-bfb6-11e7-9f57-272ad7aa9a0e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:12:57.153Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 65d2db00-bfb6-11e7-9f57-272ad7aa9a0e
+[ERROR - 2017-11-02T10:12:59.482Z] Session [65d2db00-bfb6-11e7-9f57-272ad7aa9a0e] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:12:59.482Z] Session [65d2db00-bfb6-11e7-9f57-272ad7aa9a0e] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:13:05.204Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617585167
+[ERROR - 2017-11-02T10:13:06.932Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617586906
+[ERROR - 2017-11-02T10:13:08.453Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617588415
+[ERROR - 2017-11-02T10:13:09.937Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617589913
+[ERROR - 2017-11-02T10:13:11.452Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617591419
+[ERROR - 2017-11-02T10:13:12.975Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617592938
+[ERROR - 2017-11-02T10:13:14.475Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617594448
+[ERROR - 2017-11-02T10:13:15.470Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617595436
+[INFO  - 2017-11-02T10:13:16.871Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:13:49.552Z] GhostDriver - Main - running on port 37868
+[INFO  - 2017-11-02T10:13:49.926Z] Session [85495c20-bfb6-11e7-9222-5fad724fa81f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:13:49.926Z] Session [85495c20-bfb6-11e7-9222-5fad724fa81f] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:13:49.926Z] Session [85495c20-bfb6-11e7-9222-5fad724fa81f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:13:49.926Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 85495c20-bfb6-11e7-9222-5fad724fa81f
+[ERROR - 2017-11-02T10:13:52.367Z] Session [85495c20-bfb6-11e7-9222-5fad724fa81f] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:13:52.367Z] Session [85495c20-bfb6-11e7-9222-5fad724fa81f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:13:54.428Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617634405
+[ERROR - 2017-11-02T10:13:56.174Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617636148
+[ERROR - 2017-11-02T10:13:57.633Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617637601
+[ERROR - 2017-11-02T10:13:59.074Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617639042
+[ERROR - 2017-11-02T10:14:00.517Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617640497
+[ERROR - 2017-11-02T10:14:01.926Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617641898
+[ERROR - 2017-11-02T10:14:03.364Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617643326
+[ERROR - 2017-11-02T10:14:04.793Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617644763
+[ERROR - 2017-11-02T10:14:05.691Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509617645665
+[INFO  - 2017-11-02T10:14:07.070Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:17:34.315Z] GhostDriver - Main - running on port 27317
+[INFO  - 2017-11-02T10:17:34.524Z] Session [0b284b80-bfb7-11e7-929e-b7960afd1c9d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:17:34.524Z] Session [0b284b80-bfb7-11e7-929e-b7960afd1c9d] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:17:34.524Z] Session [0b284b80-bfb7-11e7-929e-b7960afd1c9d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:17:34.524Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0b284b80-bfb7-11e7-929e-b7960afd1c9d
+[ERROR - 2017-11-02T10:17:36.607Z] Session [0b284b80-bfb7-11e7-929e-b7960afd1c9d] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:17:36.607Z] Session [0b284b80-bfb7-11e7-929e-b7960afd1c9d] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:17:51.421Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:18:57.741Z] GhostDriver - Main - running on port 40871
+[INFO  - 2017-11-02T10:18:58.012Z] Session [3ceb6670-bfb7-11e7-9c6f-573ac4eb58d5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:18:58.012Z] Session [3ceb6670-bfb7-11e7-9c6f-573ac4eb58d5] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:18:58.012Z] Session [3ceb6670-bfb7-11e7-9c6f-573ac4eb58d5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:18:58.012Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3ceb6670-bfb7-11e7-9c6f-573ac4eb58d5
+[ERROR - 2017-11-02T10:18:59.845Z] Session [3ceb6670-bfb7-11e7-9c6f-573ac4eb58d5] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:18:59.845Z] Session [3ceb6670-bfb7-11e7-9c6f-573ac4eb58d5] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:19:05.248Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:20:24.495Z] GhostDriver - Main - running on port 31194
+[INFO  - 2017-11-02T10:20:24.751Z] Session [709e6a80-bfb7-11e7-b31a-bd58e7a7be2b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:20:24.751Z] Session [709e6a80-bfb7-11e7-b31a-bd58e7a7be2b] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:20:24.751Z] Session [709e6a80-bfb7-11e7-b31a-bd58e7a7be2b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:20:24.751Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 709e6a80-bfb7-11e7-b31a-bd58e7a7be2b
+[ERROR - 2017-11-02T10:20:26.778Z] Session [709e6a80-bfb7-11e7-b31a-bd58e7a7be2b] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:20:26.778Z] Session [709e6a80-bfb7-11e7-b31a-bd58e7a7be2b] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:20:29.989Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:21:15.738Z] GhostDriver - Main - running on port 33658
+[INFO  - 2017-11-02T10:21:16.062Z] Session [8f344fa0-bfb7-11e7-85f6-c16d31b6b122] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:21:16.062Z] Session [8f344fa0-bfb7-11e7-85f6-c16d31b6b122] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:21:16.062Z] Session [8f344fa0-bfb7-11e7-85f6-c16d31b6b122] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:21:16.062Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8f344fa0-bfb7-11e7-85f6-c16d31b6b122
+[ERROR - 2017-11-02T10:21:18.071Z] Session [8f344fa0-bfb7-11e7-85f6-c16d31b6b122] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:21:18.071Z] Session [8f344fa0-bfb7-11e7-85f6-c16d31b6b122] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:21:21.951Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:22:42.244Z] GhostDriver - Main - running on port 12213
+[INFO  - 2017-11-02T10:22:42.590Z] Session [c2c796b0-bfb7-11e7-b3f3-259de443fb2e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:22:42.591Z] Session [c2c796b0-bfb7-11e7-b3f3-259de443fb2e] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:22:42.591Z] Session [c2c796b0-bfb7-11e7-b3f3-259de443fb2e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:22:42.591Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c2c796b0-bfb7-11e7-b3f3-259de443fb2e
+[ERROR - 2017-11-02T10:22:44.371Z] Session [c2c796b0-bfb7-11e7-b3f3-259de443fb2e] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:22:44.371Z] Session [c2c796b0-bfb7-11e7-b3f3-259de443fb2e] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:22:49.693Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:45:25.928Z] GhostDriver - Main - running on port 36070
+[INFO  - 2017-11-02T10:45:26.249Z] Session [ef954950-bfba-11e7-9165-0562a856dc0b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:45:26.249Z] Session [ef954950-bfba-11e7-9165-0562a856dc0b] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:45:26.249Z] Session [ef954950-bfba-11e7-9165-0562a856dc0b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:45:26.249Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ef954950-bfba-11e7-9165-0562a856dc0b
+[ERROR - 2017-11-02T10:45:28.115Z] Session [ef954950-bfba-11e7-9165-0562a856dc0b] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:45:28.115Z] Session [ef954950-bfba-11e7-9165-0562a856dc0b] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:45:30.808Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:45:31.709Z] GhostDriver - Main - running on port 33188
+[INFO  - 2017-11-02T10:45:31.837Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:45:31.837Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:45:31.837Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:45:31.837Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f2e95650-bfba-11e7-bded-df50a985e00c
+[ERROR - 2017-11-02T10:45:34.004Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:45:34.004Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[ERROR - 2017-11-02T10:45:35.828Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:45:35.828Z] Session [f2e95650-bfba-11e7-bded-df50a985e00c] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:45:37.125Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-11-02T10:45:38.020Z] GhostDriver - Main - running on port 8455
+[INFO  - 2017-11-02T10:45:38.214Z] Session [f6b6d910-bfba-11e7-b032-9dff259d3d50] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-02T10:45:38.214Z] Session [f6b6d910-bfba-11e7-b032-9dff259d3d50] - page.customHeaders:  - {}
+[INFO  - 2017-11-02T10:45:38.214Z] Session [f6b6d910-bfba-11e7-b032-9dff259d3d50] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-02T10:45:38.214Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f6b6d910-bfba-11e7-b032-9dff259d3d50
+[ERROR - 2017-11-02T10:45:40.243Z] Session [f6b6d910-bfba-11e7-b032-9dff259d3d50] - page.onError - msg: Facebook Pixel Error: Error: [ID:1301286206645233] An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+[ERROR - 2017-11-02T10:45:40.244Z] Session [f6b6d910-bfba-11e7-b032-9dff259d3d50] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:24)
+[INFO  - 2017-11-02T10:45:44.408Z] ShutdownReqHand - _handle - About to shutdown

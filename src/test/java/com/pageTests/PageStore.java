@@ -4,6 +4,7 @@ import com.sun.javafx.PlatformUtil;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriverService;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -30,14 +31,14 @@ public class PageStore {
         }*/
         /*ChromeOptions options = new ChromeOptions();
         options.addArguments("headless");
-        options.addArguments("window-size=2560x1600");
-        driver = new ChromeDriver();*/
+        options.addArguments("window-size=2560x1600");*/
+//        driver = new ChromeDriver();
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setJavascriptEnabled(true);
         caps.setCapability("Platform", Platform.ANY);
         caps.setCapability("takesScreenshot", true);
-        caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY, "/Users/purushothamreddy/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs");
-        System.setProperty("phantomjs.binary.path", "/Users/purushothamreddy/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs");
+        caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY, "lib/phantomjs");
+        System.setProperty("phantomjs.binary.path", "lib/phantomjs");
         driver = new PhantomJSDriver();
         pages = new ArrayList<Object>();
     }

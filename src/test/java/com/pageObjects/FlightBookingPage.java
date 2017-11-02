@@ -69,10 +69,11 @@ public class FlightBookingPage {
     }
 
     public void destinationOptions() {
-        dateOfDepartureBox.click();
-        new WaitFor().waitForElementToBeClickable(calendarClick, driver);
+        String tomorrow = new DateUtil().tomorrow();
+        dateOfDepartureBox.sendKeys(tomorrow);
+        /*new WaitFor().waitForElementToBeClickable(calendarClick, driver);
         //Changed to valid date xpath location as the date was pointed to previous invalid date that cannot be selected.
-        calendarClick.click();
+        calendarClick.click();*/
     }
 
     public WebElement clickSearch(){

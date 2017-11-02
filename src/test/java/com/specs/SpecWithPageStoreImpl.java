@@ -21,7 +21,7 @@ public class SpecWithPageStoreImpl {
         this.onSignInPage = onSignInPage;
     }
 */
-    public void clickOnSignInButton(){
+    public void clickOnSignInBtn(){
         onSignInPage = pageStore.get(SignInPage.class);
         onSignInPage.clickOnSignInButton();
     }
