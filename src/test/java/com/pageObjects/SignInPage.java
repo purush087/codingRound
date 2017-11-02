@@ -51,8 +51,8 @@ public class SignInPage {
         signInButton.click();
         error = errors1.getText();
         System.out.println(error);
-        /*driver.switchTo().defaultContent();
-        closeBtn.click();*/
+        driver.switchTo().defaultContent();
+        closeBtn.click();
         return error;
     }
 }
