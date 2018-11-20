@@ -1,49 +1,39 @@
-version: '2 '
+version: '3'
 
 services:
 
-  selenium:
-
-      image: elgalu/selenium
-
   zalenium:
-
       image: dosel/zalenium
-
       container_name: zalenium
-
+      hostname: zalenium
       tty: true
-
       volumes:
           - /var/run/docker.sock:/var/run/docker.sock
           - /tmp/videos:/home/seluser/videos
-
+          - /usr/local/bin/docker:/usr/local/bin/docker
       ports:
           - 4444:4444
-
       command: >
           start --desiredContainers 2
                 --maxDockerSeleniumContainers 8
                 --screenWidth 800 --screenHeight 600
-                --timeZone "Europe/Berlin"
+                --timeZone "India"
                 --videoRecordingEnabled true
-                --sauceLabsEnabled false
-                --browserStackEnabled false
-                --testingBotEnabled false
-                --startTunnel false
+      environment:
+            - HOST_UID
+            - HOST_GID
 
   gradle:
 
       image: gradle
-
       container_name: gradle
-
+      depends_on:
+          - zalenium
       volumes:
-
           - .:/home/gradle
 
-      command: gradle Sanity
+      command:
+          ./wait-for-grid.sh --/bin/sh ./runGradle.sh
 
       links:
-
           - zalenium:localhost
