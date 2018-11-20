@@ -14,6 +14,7 @@ import org.apache.commons.io.FileUtils;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.MalformedURLException;
 
 public class BaseScenario {
 
@@ -24,7 +25,7 @@ public class BaseScenario {
 
 
     @BeforeMethod(alwaysRun = true)
-    public void setup() {
+    public void setup() throws MalformedURLException {
         pageStore = new PageStore();
         user = new SpecWithPageStoreImpl(pageStore);
         driver = pageStore.getDriver();

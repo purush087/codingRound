@@ -6,10 +6,11 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+//@Listeners({ReportPortalTestNGListener.class})
 public class FlightBookingTest extends BaseScenario {
 
     @Test
-    public void testThatResultsAppearForAOneWayJourney(){
+    public void testThatResultsAppearForAOneWayJourney() {
         WebElement searchSummary = given(user).choosesOneWayJourney();
         Assert.assertTrue(isElementPresent(searchSummary));
     }

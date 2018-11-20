@@ -1,0 +1,49 @@
+version: '2 '
+
+services:
+
+  selenium:
+
+      image: elgalu/selenium
+
+  zalenium:
+
+      image: dosel/zalenium
+
+      container_name: zalenium
+
+      tty: true
+
+      volumes:
+          - /var/run/docker.sock:/var/run/docker.sock
+          - /tmp/videos:/home/seluser/videos
+
+      ports:
+          - 4444:4444
+
+      command: >
+          start --desiredContainers 2
+                --maxDockerSeleniumContainers 8
+                --screenWidth 800 --screenHeight 600
+                --timeZone "Europe/Berlin"
+                --videoRecordingEnabled true
+                --sauceLabsEnabled false
+                --browserStackEnabled false
+                --testingBotEnabled false
+                --startTunnel false
+
+  gradle:
+
+      image: gradle
+
+      container_name: gradle
+
+      volumes:
+
+          - .:/home/gradle
+
+      command: gradle Sanity
+
+      links:
+
+          - zalenium:localhost
