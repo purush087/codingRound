@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gradle clean build
+gradle Sanity

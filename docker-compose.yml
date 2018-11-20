@@ -5,7 +5,7 @@ services:
   zalenium:
       image: dosel/zalenium
       container_name: zalenium
-      hostname: zalenium
+      hostname: localhost
       tty: true
       volumes:
           - /var/run/docker.sock:/var/run/docker.sock
@@ -19,9 +19,6 @@ services:
                 --screenWidth 800 --screenHeight 600
                 --timeZone "India"
                 --videoRecordingEnabled true
-      environment:
-            - HOST_UID
-            - HOST_GID
 
   gradle:
 
@@ -35,5 +32,5 @@ services:
       command:
           ./wait-for-grid.sh --/bin/sh ./runGradle.sh
 
-      links:
-          - zalenium:localhost
+#      links:
+#          - zalenium:localhost
