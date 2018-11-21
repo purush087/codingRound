@@ -1,4 +1,4 @@
-build
+build/
 .idea
 .gradle
 classes/
@@ -6,5 +6,4 @@ out/
 target/
 phantomjsdriver.log
 reviewChecklist.txt
-pom.xml
-codoingRound.iml
+
